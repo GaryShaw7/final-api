@@ -1,0 +1,23 @@
+{
+  "name": "final-api",
+  "version": "1.0.0",
+  "description": "my first api attempt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaryShaw7/final-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GaryShaw7/final-api/issues"
+  },
+  "homepage": "https://github.com/GaryShaw7/final-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
