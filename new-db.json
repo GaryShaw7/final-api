@@ -1,0 +1,4507 @@
+{
+    "RollingStone500":
+  [
+    {
+      "Number": "1",
+      "Album": "Sgt. Pepper's Lonely Hearts Club Band",
+      "Artist": "The Beatles",
+      "Year": "1967",
+      "Genre": "Rock",
+      "Subgenre": "Rock & Roll, Psychedelic Rock",
+      "Image": "https://img.discogs.com/XYAISCrvfWSf9IpDKqzJmzrd3vM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-499497-1456047383-9489.jpeg.jpg"
+    },
+    {
+      "Number": "2",
+      "Album": "Pet Sounds",
+      "Artist": "The Beach Boys",
+      "Year": "1966",
+      "Genre": "Rock",
+      "Subgenre": "Pop Rock, Psychedelic Rock",
+      "Image": "https://img.discogs.com/cggQcugiL3XUE96KsWoudxkKJ7c=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1354479-1346387027-4774.jpeg.jpg"
+    },
+    {
+      "Number": "3",
+      "Album": "Revolver",
+      "Artist": "The Beatles",
+      "Year": "1966",
+      "Genre": "Rock",
+      "Subgenre": "Psychedelic Rock, Pop Rock",
+      "Image": "https://img.discogs.com/mZGBA0MjtnTtWLjRjfuznEoTWiw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2318045-1276592861.jpeg.jpg"
+    },
+    {
+      "Number": "4",
+      "Album": "Highway 61 Revisited",
+      "Artist": "Bob Dylan",
+      "Year": "1965",
+      "Genre": "Rock",
+      "Subgenre": "Folk Rock, Blues Rock",
+      "Image": "https://img.discogs.com/nDZQMqvahCuMLDklJlWG51q4y9o=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6590004-1422648212-9623.jpeg.jpg"
+    },
+    {
+      "Number": "5",
+      "Album": "Rubber Soul",
+      "Artist": "The Beatles",
+      "Year": "1965",
+      "Genre": "Rock, Pop",
+      "Subgenre": "Pop Rock",
+      "Image": "https://img.discogs.com/7CCe9axmnMdW1MY0PIqa6-dAQk8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13226139-1551052667-1707.jpeg.jpg"
+    },
+    {
+      "Number": "6",
+      "Album": "What's Going On",
+      "Artist": "Marvin Gaye",
+      "Year": "1971",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Soul",
+      "Image": "https://img.discogs.com/1o2-xf05cW9SKJ9t_goONNBI6PQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1559040-1311042861.jpeg.jpg"
+    },
+    {
+      "Number": "7",
+      "Album": "Exile on Main St.",
+      "Artist": "The Rolling Stones",
+      "Year": "1972",
+      "Genre": "Rock",
+      "Subgenre": "Blues Rock, Rock & Roll, Classic Rock",
+      "Image": "https://img.discogs.com/j1Q4ClPduUEgr98r7ho0cWyX42g=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-20726068-1635177751-8922.jpeg.jpg"
+    },
+    {
+      "Number": "8",
+      "Album": "London Calling",
+      "Artist": "The Clash",
+      "Year": "1979",
+      "Genre": "Rock",
+      "Subgenre": "Punk, New Wave",
+      "Image": "https://img.discogs.com/mc60TjUxzEiuYlU6SBT1F8cGFak=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-470912-1607761182-5824.jpeg.jpg"
+    },
+    {
+      "Number": "9",
+      "Album": "Blonde on Blonde",
+      "Artist": "Bob Dylan",
+      "Year": "1966",
+      "Genre": "Rock, Blues",
+      "Subgenre": "Folk Rock, Rhythm & Blues",
+      "Image": "https://img.discogs.com/hnfT-AnXd70y1gw66oTBAZmLneg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1431601-1387141380-8085.jpeg.jpg"
+    },
+    {
+      "Number": "10",
+      "Album": "The Beatles \"The White Album\"",
+      "Artist": "The Beatles",
+      "Year": "1968",
+      "Genre": "Rock",
+      "Subgenre": "Rock & Roll, Pop Rock, Psychedelic Rock, Experimental",
+      "Image": "https://img.discogs.com/kCJoZHiHwo4n5-LdcIfP0cTpQZ4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8065046-1454474102-6930.jpeg.jpg"
+    },
+    {
+      "Number": "11",
+      "Album": "The Sun Sessions",
+      "Artist": "Elvis Presley",
+      "Year": "1976",
+      "Genre": "Rock",
+      "Subgenre": "Rock & Roll",
+      "Image": "https://img.discogs.com/MGSNhzobDXxyrwImeIWyeM680mg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1729944-1345331715-2311.jpeg.jpg"
+    },
+    {
+      "Number": "12",
+      "Album": "Kind of Blue",
+      "Artist": "Miles Davis",
+      "Year": "1959",
+      "Genre": "Jazz",
+      "Subgenre": "Modal",
+      "Image": "https://img.discogs.com/LjIGXwYAntTlO7qS2Iu5Y23GPIo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2252871-1508562123-2519.jpeg.jpg"
+    },
+    {
+      "Number": "13",
+      "Album": "The Velvet Underground & Nico",
+      "Artist": "The Velvet Underground",
+      "Year": "1967",
+      "Genre": "Rock",
+      "Subgenre": "Garage Rock, Art Rock, Experimental",
+      "Image": "https://img.discogs.com/7x2fcrnkDXyYWMCKvHJk-CMl2jQ=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-39766-1620457330-8737.jpeg.jpg"
+    },
+    {
+      "Number": "14",
+      "Album": "Abbey Road",
+      "Artist": "The Beatles",
+      "Year": "1969",
+      "Genre": "Rock",
+      "Subgenre": "Psychedelic Rock, Classic Rock, Pop Rock",
+      "Image": "https://img.discogs.com/doiM8iyq6bcqt2TmjZzdSUc0b88=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2607424-1630601087-1199.jpeg.jpg"
+    },
+    {
+      "Number": "15",
+      "Album": "Are You Experienced",
+      "Artist": "The Jimi Hendrix Experience",
+      "Year": "1967",
+      "Genre": "Rock, Blues",
+      "Subgenre": "Blues Rock, Psychedelic Rock",
+      "Image": "https://img.discogs.com/LLe_TodzVM5Ucr3HdDej8Oq2wn8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-993028-1576333201-8530.jpeg.jpg"
+    },
+    {
+      "Number": "16",
+      "Album": "Blood on the Tracks",
+      "Artist": "Bob Dylan",
+      "Year": "1975",
+      "Genre": "Rock",
+      "Subgenre": "Folk Rock, Acoustic, Ballad",
+      "Image": "https://img.discogs.com/5QyPfwJRnGOX6gFLWYHn0XW6bSQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2306941-1337433891-5176.jpeg.jpg"
+    },
+    {
+      "Number": "17",
+      "Album": "Nevermind",
+      "Artist": "Nirvana",
+      "Year": "1991",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock, Grunge",
+      "Image": "https://img.discogs.com/xuyvsRVdjY3aiJnHF8BkejxbcTg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-367084-1263095553.jpeg.jpg"
+    },
+    {
+      "Number": "18",
+      "Album": "Born to Run",
+      "Artist": "Bruce Springsteen",
+      "Year": "1975",
+      "Genre": "Rock",
+      "Subgenre": "Pop Rock",
+      "Image": "https://img.discogs.com/hbvRh6u1QuL-iVeYJspStKa51eg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12279412-1610723195-6360.jpeg.jpg"
+    },
+    {
+      "Number": "19",
+      "Album": "Astral Weeks",
+      "Artist": "Van Morrison",
+      "Year": "1968",
+      "Genre": "Jazz, Rock, Blues, Folk, World, & Country",
+      "Subgenre": "Acoustic, Classic Rock, Free Improvisation",
+      "Image": "https://img.discogs.com/ju1RCBHmCETrmufjEAA9HHWrsRo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3536289-1454991937-2351.jpeg.jpg"
+    },
+    {
+      "Number": "20",
+      "Album": "Thriller",
+      "Artist": "Michael Jackson",
+      "Year": "1982",
+      "Genre": "Funk , Soul, Pop",
+      "Subgenre": "Disco",
+      "Image": "https://img.discogs.com/XOmlYMla7xMzb382QAD76X3Feqg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2911293-1594245812-7931.jpeg.jpg"
+    },
+    {
+      "Number": "21",
+      "Album": "The Great Twenty_Eight",
+      "Artist": "Chuck Berry",
+      "Year": "1982",
+      "Genre": "Rock",
+      "Subgenre": "Rock & Roll",
+      "Image": "https://img.discogs.com/rBXY48HLcqrqaD-6lCw4Y6MrVWE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2692557-1297090992.jpeg.jpg"
+    },
+    {
+      "Number": "22",
+      "Album": "The Complete Recordings",
+      "Artist": "Robert Johnson",
+      "Year": "1990",
+      "Genre": "Blues",
+      "Subgenre": "Delta Blues",
+      "Image": "https://img.discogs.com/RUvbKJrWKYOHydju10N6DReHvTA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-804433-1378711592-2620.jpeg.jpg"
+    },
+    {
+      "Number": "23",
+      "Album": "John Lennon, Plastic Ono Band",
+      "Artist": "John Lennon , Plastic Ono Band",
+      "Year": "1970",
+      "Genre": "Rock",
+      "Subgenre": "Pop Rock",
+      "Image": "https://img.discogs.com/I92yDnZIEuI-dAolv_j0sKV3h4s=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1255883-1399477526-2041.jpeg.jpg"
+    },
+    {
+      "Number": "24",
+      "Album": "Innervisions",
+      "Artist": "Stevie Wonder",
+      "Year": "1973",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Soul",
+      "Image": "https://img.discogs.com/1kPcgVy1ntWnvlKXpMl6rWSuMio=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13286331-1551400916-4169.jpeg.jpg"
+    },
+    {
+      "Number": "25",
+      "Album": "Live at the Apollo, 1962",
+      "Artist": "James Brown",
+      "Year": "1963",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Rhythm & Blues, Soul",
+      "Image": "https://img.discogs.com/3wWclc8nZDqgqVc7xbZdspiX564=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1045058-1517689371-5679.jpeg.jpg"
+    },
+    {
+      "Number": "26",
+      "Album": "Rumours",
+      "Artist": "Fleetwood Mac",
+      "Year": "1977",
+      "Genre": "Rock",
+      "Subgenre": "Pop Rock",
+      "Image": "https://img.discogs.com/EhIuJF0z5bR5IHgewKG8iKw1OLE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8626822-1465424802-4335.jpeg.jpg"
+    },
+    {
+      "Number": "27",
+      "Album": "The Joshua Tree",
+      "Artist": "U2",
+      "Year": "1987",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock, Pop Rock",
+      "Image": "https://img.discogs.com/CX-S1uKKnjtg359MgaXFD7jx0vQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1341431-1215152830.jpeg.jpg"
+    },
+    {
+      "Number": "28",
+      "Album": "Who's Next",
+      "Artist": "The Who",
+      "Year": "1971",
+      "Genre": "Rock",
+      "Subgenre": "Hard Rock, Mod, Prog Rock, Psychedelic Rock",
+      "Image": "https://img.discogs.com/YIR8D71fcOFmOdpxGTHGJjOB898=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-487464-1587376240-4941.jpeg.jpg"
+    },
+    {
+      "Number": "29",
+      "Album": "Led Zeppelin",
+      "Artist": "Led Zeppelin",
+      "Year": "1969",
+      "Genre": "Rock",
+      "Subgenre": "Blues Rock, Hard Rock",
+      "Image": "https://img.discogs.com/vbkg0qa1txUNXx6KLOAPSrYm8cU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1218217-1201488186.jpeg.jpg"
+    },
+    {
+      "Number": "30",
+      "Album": "Blue",
+      "Artist": "Joni Mitchell",
+      "Year": "1971",
+      "Genre": "Pop",
+      "Subgenre": "Acoustic, Ballad, Folk",
+      "Image": "https://img.discogs.com/d7F-RPQssfHEH6eTrNTAMViejlE=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-90233-1591573559-9725.jpeg.jpg"
+    },
+    {
+      "Number": "31",
+      "Album": "Bringing It All Back Home",
+      "Artist": "Bob Dylan",
+      "Year": "1965",
+      "Genre": "Rock, Folk, World, & Country",
+      "Subgenre": "Folk Rock, Folk",
+      "Image": "https://img.discogs.com/gUxE-9ZBxaiYmcc07j1FWo9QcNE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1062915-1343845271-9578.jpeg.jpg"
+    },
+    {
+      "Number": "32",
+      "Album": "Let It Bleed",
+      "Artist": "The Rolling Stones",
+      "Year": "1969",
+      "Genre": "Rock",
+      "Subgenre": "Blues Rock, Hard Rock",
+      "Image": "https://img.discogs.com/POcTTuyhXgM8lYC8jUpIcno9KBM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2244952-1331736823.jpeg.jpg"
+    },
+    {
+      "Number": "33",
+      "Album": "Ramones",
+      "Artist": "Ramones",
+      "Year": "1976",
+      "Genre": "Rock",
+      "Subgenre": "Rock & Roll, Punk",
+      "Image": "https://img.discogs.com/XaSRNogWGfxvgiZLdvCtA2br340=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-135478-1590707565-1350.jpeg.jpg"
+    },
+    {
+      "Number": "34",
+      "Album": "Music From Big Pink",
+      "Artist": "The Band",
+      "Year": "1968",
+      "Genre": "Rock",
+      "Subgenre": "Folk Rock, Acoustic, Blues Rock",
+      "Image": "https://img.discogs.com/YPovtxXMNssr6Ee1TUA7hv0epzY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4701710-1472047784-7623.jpeg.jpg"
+    },
+    {
+      "Number": "35",
+      "Album": "The Rise and Fall of Ziggy Stardust and the Spiders From Mars",
+      "Artist": "David Bowie",
+      "Year": "1972",
+      "Genre": "Rock",
+      "Subgenre": "Classic Rock, Glam",
+      "Image": "https://img.discogs.com/QUEiWOnplg84ZzQdKgHvWammDNc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-618952-1443451473-7889.jpeg.jpg"
+    },
+    {
+      "Number": "36",
+      "Album": "Tapestry",
+      "Artist": "Carole King",
+      "Year": "1971",
+      "Genre": "Rock, Pop",
+      "Subgenre": "Folk Rock, Soft Rock",
+      "Image": "https://img.discogs.com/dGc7xfdEe8rKAcbe8GtmxOQRy50=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1395530-1389943755-5603.jpeg.jpg"
+    },
+    {
+      "Number": "37",
+      "Album": "Hotel California",
+      "Artist": "Eagles",
+      "Year": "1976",
+      "Genre": "Rock",
+      "Subgenre": "Classic Rock",
+      "Image": "https://img.discogs.com/yh4fBNqDL17kEBz1gSxZl0zhZdQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1934367-1383908438-4175.jpeg.jpg"
+    },
+    {
+      "Number": "38",
+      "Album": "The Anthology",
+      "Artist": "Muddy Waters",
+      "Year": "2001",
+      "Genre": "Folk, World, & Country",
+      "Subgenre": "Folk",
+      "Image": "https://img.discogs.com/GL8xJfK3Rf0NFZjGmifJtvpgcHQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1305419-1242803317.jpeg.jpg"
+    },
+    {
+      "Number": "39",
+      "Album": "Please Please Me",
+      "Artist": "The Beatles",
+      "Year": "1963",
+      "Genre": "Rock",
+      "Subgenre": "Beat, Rock & Roll",
+      "Image": "https://img.discogs.com/djWe12BM6hept_quZra_VFtGOfk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1350468-1377575562-1715.jpeg.jpg"
+    },
+    {
+      "Number": "40",
+      "Album": "Forever Changes",
+      "Artist": "Love",
+      "Year": "1967",
+      "Genre": "Rock",
+      "Subgenre": "Folk Rock, Psychedelic Rock",
+      "Image": "https://img.discogs.com/SM8tRhf7eD-gLdURxK9pnQdF5UI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1157303-1264444904.jpeg.jpg"
+    },
+    {
+      "Number": "41",
+      "Album": "Never Mind the Bollocks Here's the Sex Pistols",
+      "Artist": "Sex Pistols",
+      "Year": "1977",
+      "Genre": "Rock",
+      "Subgenre": "Punk",
+      "Image": "https://img.discogs.com/lNPrL480ReX4LVEpFbmgQOCSoIU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2633887-1625495789-3735.jpeg.jpg"
+    },
+    {
+      "Number": "42",
+      "Album": "The Doors",
+      "Artist": "The Doors",
+      "Year": "1967",
+      "Genre": "Rock",
+      "Subgenre": "Psychedelic Rock",
+      "Image": "https://img.discogs.com/dP82fb5_9h8NlkH83IoB7fyjjAc=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-56798-1169678918.jpeg.jpg"
+    },
+    {
+      "Number": "43",
+      "Album": "The Dark Side of the Moon",
+      "Artist": "Pink Floyd",
+      "Year": "1973",
+      "Genre": "Rock",
+      "Subgenre": "Prog Rock",
+      "Image": "https://img.discogs.com/A6IBjK52pu1iaZRETwQ-M8gvM4E=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1873013-1471100381-3022.jpeg.jpg"
+    },
+    {
+      "Number": "44",
+      "Album": "Horses",
+      "Artist": "Patti Smith",
+      "Year": "1975",
+      "Genre": "Rock",
+      "Subgenre": "Art Rock",
+      "Image": "https://img.discogs.com/PtgOM3sl6FZAUkvXGha52-IUJsk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3624373-1595679433-4592.jpeg.jpg"
+    },
+    {
+      "Number": "45",
+      "Album": "The Band \"The Brown Album\"",
+      "Artist": "The Band",
+      "Year": "1969",
+      "Genre": "Classical, Stage & Screen",
+      "Subgenre": "Soundtrack, Modern Classical, Contemporary, Score",
+      "Image": "https://img.discogs.com/WogPDmRRaSQIRebSZ97WCbefhCM=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-269915-1528597622-6055.jpeg.jpg"
+    },
+    {
+      "Number": "46",
+      "Album": "Legend: The Best of Bob Marley and The Wailers",
+      "Artist": "Bob Marley & The Wailers",
+      "Year": "1984",
+      "Genre": "Reggae",
+      "Subgenre": "Reggae, Roots Reggae",
+      "Image": "https://img.discogs.com/-VrNfnD_foEdDFVrzwTs50lsCeY=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-41441-1621806162-5474.jpeg.jpg"
+    },
+    {
+      "Number": "47",
+      "Album": "A Love Supreme",
+      "Artist": "John Coltrane",
+      "Year": "1965",
+      "Genre": "Jazz",
+      "Subgenre": "Free Jazz, Hard Bop, Modal",
+      "Image": "https://img.discogs.com/M67P-49He4w0jUUG1INnnRjFCGU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-857505-1398955836-9431.jpeg.jpg"
+    },
+    {
+      "Number": "48",
+      "Album": "It Takes a Nation of Millions to Hold Us Back",
+      "Artist": "Public Enemy",
+      "Year": "1988",
+      "Genre": "Hip Hop",
+      "Subgenre": "Conscious",
+      "Image": "https://img.discogs.com/Rzzb6bFJb4OAXVzRAvW_614MxDM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-775228-1448135457-2250.jpeg.jpg"
+    },
+    {
+      "Number": "49",
+      "Album": "At Fillmore East",
+      "Artist": "The Allman Brothers Band",
+      "Year": "1971",
+      "Genre": "Rock, Blues",
+      "Subgenre": "Blues Rock",
+      "Image": "https://img.discogs.com/qWnsbExCmbI5_CE5GbinMGA9sxA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2379908-1280619864.jpeg.jpg"
+    },
+    {
+      "Number": "50",
+      "Album": "Here's Little Richard",
+      "Artist": "Little Richard",
+      "Year": "1957",
+      "Genre": "Rock, Blues",
+      "Subgenre": "Rock & Roll, Rhythm & Blues",
+      "Image": "https://img.discogs.com/VEk5uIX4Hq-ClTOVRK7_s_I7sQg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1005589-1413626931-1896.jpeg.jpg"
+    },
+    {
+      "Number": "51",
+      "Album": "Bridge Over Troubled Water",
+      "Artist": "Simon & Garfunkel",
+      "Year": "1970",
+      "Genre": "Rock",
+      "Subgenre": "Folk Rock, Classic Rock",
+      "Image": "https://img.discogs.com/dgETBCa3a15-yEWecgTNpJv2yPk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1247699-1463256104-5077.jpeg.jpg"
+    },
+    {
+      "Number": "52",
+      "Album": "Greatest Hits",
+      "Artist": "Al Green",
+      "Year": "1975",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Soul",
+      "Image": "https://img.discogs.com/BagZCUZiVK-Z6rbm8JKMMpPyaVw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11146158-1510696073-1618.jpeg.jpg"
+    },
+    {
+      "Number": "53",
+      "Album": "Meet The Beatles!",
+      "Artist": "The Beatles",
+      "Year": "1964",
+      "Genre": "Rock",
+      "Subgenre": "Beat, Rock & Roll",
+      "Image": "https://img.discogs.com/iMbwKHP1FWc6-kLpFraaSJeOQks=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1349112-1517053004-6131.jpeg.jpg"
+    },
+    {
+      "Number": "54",
+      "Album": "The Birth of Soul",
+      "Artist": "Ray Charles",
+      "Year": "1991",
+      "Genre": "Jazz, Funk , Soul",
+      "Subgenre": "Rhythm & Blues, Big Band, Soul, Soul-Jazz",
+      "Image": "https://img.discogs.com/_73o0nOJSOHVsQLPCPv3SORYS7A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5553886-1412649494-7718.jpeg.jpg"
+    },
+    {
+      "Number": "55",
+      "Album": "Electric Ladyland",
+      "Artist": "The Jimi Hendrix Experience",
+      "Year": "1968",
+      "Genre": "Rock, Blues",
+      "Subgenre": "Electric Blues, Psychedelic Rock",
+      "Image": "https://img.discogs.com/c7nookCpsqdgxhZHFpC3IC3Zq68=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-538440-1592071841-3427.jpeg.jpg"
+    },
+    {
+      "Number": "56",
+      "Album": "Elvis Presley",
+      "Artist": "Elvis Presley",
+      "Year": "1956",
+      "Genre": "Rock",
+      "Subgenre": "Rock & Roll, Rockabilly",
+      "Image": "https://img.discogs.com/rv_ixIXArnQFS6nGTFL9_WxwB_s=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-27518-1622401909-5918.jpeg.jpg"
+    },
+    {
+      "Number": "57",
+      "Album": "Songs in the Key of Life",
+      "Artist": "Stevie Wonder",
+      "Year": "1976",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Soul, Disco",
+      "Image": "https://img.discogs.com/g9SnVnFwETTBCFVGFeWMWDmOy-A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2927062-1587373833-4616.jpeg.jpg"
+    },
+    {
+      "Number": "58",
+      "Album": "Beggars Banquet",
+      "Artist": "The Rolling Stones",
+      "Year": "1968",
+      "Genre": "Rock, Funk , Soul, Pop",
+      "Subgenre": "Blues Rock, Southern Rock, Classic Rock",
+      "Image": "https://img.discogs.com/vm3f_FaQYK2sfJK_yhiYfPQ9l3c=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5893267-1405599442-7738.jpeg.jpg"
+    },
+    {
+      "Number": "59",
+      "Album": "Chronicle: The 20 Greatest Hits",
+      "Artist": "Creedence Clearwater Revival",
+      "Year": "1976",
+      "Genre": "Rock",
+      "Subgenre": "None",
+      "Image": "https://img.discogs.com/UqdmahxCYTnH8JkLoWpbwGPtOTw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9719570-1485286773-1811.jpeg.jpg"
+    },
+    {
+      "Number": "60",
+      "Album": "Trout Mask Replica",
+      "Artist": "Captain Beefheart & His Magic Band",
+      "Year": "1969",
+      "Genre": "Rock, Blues",
+      "Subgenre": "Dialogue, Field Recording, Avantgarde, Electric Blues, Psychedelic Rock, Experimental",
+      "Image": "https://img.discogs.com/OmKQd7M1qm84rGvGXS-yiznBxys=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-119009-1623057148-1843.jpeg.jpg"
+    },
+    {
+      "Number": "61",
+      "Album": "Greatest Hits",
+      "Artist": "Sly & The Family Stone",
+      "Year": "1970",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Rhythm & Blues, Funk",
+      "Image": "https://img.discogs.com/yFKasNqwttjERibtyTuIJlwPJEg=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-30419-1611130940-4833.jpeg.jpg"
+    },
+    {
+      "Number": "62",
+      "Album": "Appetite for Destruction",
+      "Artist": "Guns N Roses",
+      "Year": "1987",
+      "Genre": "Rock",
+      "Subgenre": "Hard Rock, Heavy Metal",
+      "Image": "https://img.discogs.com/gA2xbhX1lU1l9uNaEG3DXGdnzEg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-383777-1173543359.jpeg.jpg"
+    },
+    {
+      "Number": "63",
+      "Album": "Achtung Baby",
+      "Artist": "U2",
+      "Year": "1991",
+      "Genre": "Electronic, Rock",
+      "Subgenre": "Pop Rock, Synth-pop, Alternative Rock, Arena Rock",
+      "Image": "https://img.discogs.com/nKDu4bRt-ru3HEorWhwI35DybM8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1435215-1402660531-4218.jpeg.jpg"
+    },
+    {
+      "Number": "64",
+      "Album": "Sticky Fingers",
+      "Artist": "The Rolling Stones",
+      "Year": "1971",
+      "Genre": "Rock",
+      "Subgenre": "Classic Rock",
+      "Image": "https://img.discogs.com/sQWjkS_pdmoubCwB4TLuKwHIb48=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11272687-1629577574-4625.jpeg.jpg"
+    },
+    {
+      "Number": "65",
+      "Album": "Back to Mono (1958-1969)",
+      "Artist": "Phil Spector",
+      "Year": "1991",
+      "Genre": "Rock, Funk , Soul, Pop",
+      "Subgenre": "Doo Wop, Pop Rock, Ballad, Rhythm & Blues",
+      "Image": "https://img.discogs.com/Td7rQMn3GOmlVzD2pQopY3MIq9c=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2284412-1274388233.jpeg.jpg"
+    },
+    {
+      "Number": "66",
+      "Album": "Moondance",
+      "Artist": "Van Morrison",
+      "Year": "1970",
+      "Genre": "Jazz, Rock, Funk , Soul, Folk, World, & Country",
+      "Subgenre": "Folk Rock, Rhythm & Blues, Classic Rock, Contemporary Jazz",
+      "Image": "https://img.discogs.com/jKz85KXsU3NORtAx_0C6ZOldHbQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1168661-1526850939-6508.jpeg.jpg"
+    },
+    {
+      "Number": "67",
+      "Album": "Kid A",
+      "Artist": "Radiohead",
+      "Year": "2000",
+      "Genre": "Electronic, Rock",
+      "Subgenre": "Alternative Rock, IDM, Experimental",
+      "Image": "https://img.discogs.com/56vWHaCXZujmgenWrhHhGkdpm-g=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-3840-1462781416-2615.jpeg.jpg"
+    },
+    {
+      "Number": "68",
+      "Album": "Off the Wall",
+      "Artist": "Michael Jackson",
+      "Year": "1979",
+      "Genre": "Funk , Soul, Pop",
+      "Subgenre": "Disco, Soul, Ballad",
+      "Image": "https://img.discogs.com/YWAnfnz1pj5BPXaDFVZRk8N-nvI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-120096-1085600607.jpg.jpg"
+    },
+    {
+      "Number": "69",
+      "Album": "Led Zeppelin IV",
+      "Artist": "Led Zeppelin",
+      "Year": "1971",
+      "Genre": "Rock",
+      "Subgenre": "Hard Rock, Classic Rock, Blues Rock",
+      "Image": "https://img.discogs.com/HSdiZcd3jBatdVLSfg1N_rIjszM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1015465-1366311867-2785.jpeg.jpg"
+    },
+    {
+      "Number": "70",
+      "Album": "The Stranger",
+      "Artist": "Billy Joel",
+      "Year": "1977",
+      "Genre": "Rock",
+      "Subgenre": "Pop Rock",
+      "Image": "https://img.discogs.com/k_EQz-Tn3XQCrzZ72db3vMAqEKE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13114025-1548384381-3767.jpeg.jpg"
+    },
+    {
+      "Number": "71",
+      "Album": "Graceland",
+      "Artist": "Paul Simon",
+      "Year": "1986",
+      "Genre": "Jazz, Rock, Funk , Soul, Pop, Folk, World, & Country",
+      "Subgenre": "Folk Rock, Pop Rock, African, Afrobeat, Zydeco, Funk, Rhythm & Blues",
+      "Image": "https://img.discogs.com/wvu5eMp2VzBETP3ZGfYD7b9zoBU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1031388-1253316491.jpeg.jpg"
+    },
+    {
+      "Number": "72",
+      "Album": "Superfly",
+      "Artist": "Curtis Mayfield",
+      "Year": "1972",
+      "Genre": "Funk , Soul, Stage & Screen",
+      "Subgenre": "Soundtrack, Soul",
+      "Image": "https://img.discogs.com/c37CCa6te_DWkw_SWB-8RCFONWI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-702350-1474157249-1531.jpeg.jpg"
+    },
+    {
+      "Number": "73",
+      "Album": "Physical Graffiti",
+      "Artist": "Led Zeppelin",
+      "Year": "1975",
+      "Genre": "Rock",
+      "Subgenre": "Classic Rock",
+      "Image": "https://img.discogs.com/-9OZqU95KyUI1VqTHWrLLa0Zvz4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-458939-1588881151-1995.jpeg.jpg"
+    },
+    {
+      "Number": "74",
+      "Album": "After the Gold Rush",
+      "Artist": "Neil Young",
+      "Year": "1970",
+      "Genre": "Rock",
+      "Subgenre": "Rock & Roll, Country Rock",
+      "Image": "https://img.discogs.com/CPYDENFjoFzz9t5EwCY0F78dTMM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3345290-1415122424-4057.jpeg.jpg"
+    },
+    {
+      "Number": "75",
+      "Album": "Star Time",
+      "Artist": "James Brown",
+      "Year": "1991",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Soul, Funk, Disco",
+      "Image": "https://img.discogs.com/Ezruv_c-AJjTl0CHAW7C-bd2MJU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-106606-1162584231.jpeg.jpg"
+    },
+    {
+      "Number": "76",
+      "Album": "Purple Rain",
+      "Artist": "Prince and the Revolution",
+      "Year": "1984",
+      "Genre": "Electronic, Rock, Funk , Soul, Stage & Screen",
+      "Subgenre": "Pop Rock, Funk, Soundtrack, Synth-pop",
+      "Image": "https://img.discogs.com/vYj1Mlkn32SUj0YdRsrd66nxNjc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-194021-1335400289.jpeg.jpg"
+    },
+    {
+      "Number": "77",
+      "Album": "Back in Black",
+      "Artist": "AC,DC",
+      "Year": "1980",
+      "Genre": "Rock",
+      "Subgenre": "Hard Rock",
+      "Image": "https://img.discogs.com/4dOzrpgZF-umOtWHx21UzCMAyf4=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-84752-1611963033-7852.jpeg.jpg"
+    },
+    {
+      "Number": "78",
+      "Album": "Otis Blue: Otis Redding Sings Soul",
+      "Artist": "Otis Redding",
+      "Year": "1965",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Soul",
+      "Image": "https://img.discogs.com/-gho9KHFL5td5Gz0dFM84_LUwes=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2606974-1515015488-1993.jpeg.jpg"
+    },
+    {
+      "Number": "79",
+      "Album": "Led Zeppelin II",
+      "Artist": "Led Zeppelin",
+      "Year": "1969",
+      "Genre": "Rock",
+      "Subgenre": "Blues Rock, Classic Rock, Hard Rock",
+      "Image": "https://img.discogs.com/dL8fFvfJUwoaxd5v9n1oAQYdPFI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1846223-1518900114-9116.jpeg.jpg"
+    },
+    {
+      "Number": "80",
+      "Album": "Imagine",
+      "Artist": "John Lennon",
+      "Year": "1971",
+      "Genre": "Rock",
+      "Subgenre": "Pop Rock",
+      "Image": "https://img.discogs.com/CP5u98LMraNWwc-l3QI1OoaigVs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2883985-1305579624.jpeg.jpg"
+    },
+    {
+      "Number": "81",
+      "Album": "The Clash",
+      "Artist": "The Clash",
+      "Year": "1977",
+      "Genre": "Rock",
+      "Subgenre": "Punk",
+      "Image": "https://img.discogs.com/joJ08EossvDrGCtNjhsD6BJ8hEs=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-29890-1399395989-7849.jpeg.jpg"
+    },
+    {
+      "Number": "82",
+      "Album": "Harvest",
+      "Artist": "Neil Young",
+      "Year": "1972",
+      "Genre": "Rock",
+      "Subgenre": "Folk Rock, Country Rock, Classic Rock",
+      "Image": "https://img.discogs.com/KxXNie44r0WuVhBaekFt0KiBFUM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1044287-1400327359-6935.jpeg.jpg"
+    },
+    {
+      "Number": "83",
+      "Album": "Axis: Bold as Love",
+      "Artist": "The Jimi Hendrix Experience",
+      "Year": "1967",
+      "Genre": "Rock",
+      "Subgenre": "Psychedelic Rock, Electric Blues",
+      "Image": "https://img.discogs.com/OQqcTI1sRjTpynTqaKHh4blvOks=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1197114-1368135151-6381.jpeg.jpg"
+    },
+    {
+      "Number": "84",
+      "Album": "I Never Loved a Man the Way I Love You",
+      "Artist": "Aretha Franklin",
+      "Year": "1967",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Soul",
+      "Image": "https://img.discogs.com/93a3r4hMjXUY9aOkMkExKaeBAC0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7657085-1446948708-5632.jpeg.jpg"
+    },
+    {
+      "Number": "85",
+      "Album": "Lady Soul",
+      "Artist": "Aretha Franklin",
+      "Year": "1968",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Soul",
+      "Image": "https://img.discogs.com/857jfOhd9v8SosDMyMdpLk14KFg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3020822-1534309943-1500.jpeg.jpg"
+    },
+    {
+      "Number": "86",
+      "Album": "Born in the U.S.A.",
+      "Artist": "Bruce Springsteen",
+      "Year": "1984",
+      "Genre": "Rock",
+      "Subgenre": "Pop Rock",
+      "Image": "https://img.discogs.com/Iy_cKPKzyI_9qBR1P5-39f4u1OA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1343227-1365373608-1010.jpeg.jpg"
+    },
+    {
+      "Number": "87",
+      "Album": "The Wall",
+      "Artist": "Pink Floyd",
+      "Year": "1979",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock, Prog Rock",
+      "Image": "https://img.discogs.com/OPmcOPFCcdx1DFFADHC7XtXTad0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2041618-1390679025-2372.jpeg.jpg"
+    },
+    {
+      "Number": "88",
+      "Album": "At Folsom Prison",
+      "Artist": "Johnny Cash",
+      "Year": "1968",
+      "Genre": "Folk, World, & Country",
+      "Subgenre": "Country",
+      "Image": "https://img.discogs.com/_8Ey3FfXpgI5O6nbruCHBPF3B4E=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-448766-1396814525-1470.jpeg.jpg"
+    },
+    {
+      "Number": "89",
+      "Album": "Dusty in Memphis",
+      "Artist": "Dusty Springfield",
+      "Year": "1969",
+      "Genre": "Rock, Funk , Soul",
+      "Subgenre": "Pop Rock, Soul",
+      "Image": "https://img.discogs.com/cYk3_bWWHuflI_4f3EbANXsqlr4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-564264-1393292637-9336.png.jpg"
+    },
+    {
+      "Number": "90",
+      "Album": "Talking Book",
+      "Artist": "Stevie Wonder",
+      "Year": "1972",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Soul, Funk",
+      "Image": "https://img.discogs.com/o3vX-nA4x9ewlBfIlnCK5C7UxCc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-174477-1314480305.jpeg.jpg"
+    },
+    {
+      "Number": "91",
+      "Album": "Goodbye Yellow Brick Road",
+      "Artist": "Elton John",
+      "Year": "1973",
+      "Genre": "Rock",
+      "Subgenre": "Pop Rock, Classic Rock",
+      "Image": "https://img.discogs.com/tPqu7CxkCIkCycP51LNnYyBS9pk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6339359-1455627243-5986.jpeg.jpg"
+    },
+    {
+      "Number": "92",
+      "Album": "20 Golden Greats",
+      "Artist": "Buddy Holly",
+      "Year": "1978",
+      "Genre": "Rock",
+      "Subgenre": "Rock & Roll",
+      "Image": "https://img.discogs.com/55p08QLTHhm5gNM2PiT6KiV2zbg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13891557-1563529907-5010.jpeg.jpg"
+    },
+    {
+      "Number": "93",
+      "Album": "Sign \"Peace\" the Times",
+      "Artist": "Prince",
+      "Year": "1987",
+      "Genre": "Rock, Reggae",
+      "Subgenre": "Ska, Reggae-Pop",
+      "Image": "https://img.discogs.com/8NnVVkABw2o4zYDk8XtuzXi9BUY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-15908076-1600435178-9964.jpeg.jpg"
+    },
+    {
+      "Number": "94",
+      "Album": "40 Greatest Hits",
+      "Artist": "Hank Williams",
+      "Year": "1984",
+      "Genre": "Folk, World, & Country",
+      "Subgenre": "Country",
+      "Image": "https://img.discogs.com/GKqieQPUyPaaLDWxCqHMQ454aF0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2586681-1559945048-1966.jpeg.jpg"
+    },
+    {
+      "Number": "95",
+      "Album": "Bitches Brew",
+      "Artist": "Miles Davis",
+      "Year": "1970",
+      "Genre": "Jazz",
+      "Subgenre": "Fusion",
+      "Image": "https://img.discogs.com/LBkmZE17fVAWQYlZNvE8CzSFEaw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-37006-1393484249-2215.jpeg.jpg"
+    },
+    {
+      "Number": "96",
+      "Album": "Tommy",
+      "Artist": "The Who",
+      "Year": "1969",
+      "Genre": "Rock",
+      "Subgenre": "Psychedelic Rock",
+      "Image": "https://img.discogs.com/ILxDXxZOfEdHT3vvy2ZylIgl1cU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-810914-1366712892-9658.jpeg.jpg"
+    },
+    {
+      "Number": "97",
+      "Album": "The Freewheelin' Bob Dylan",
+      "Artist": "Bob Dylan",
+      "Year": "1963",
+      "Genre": "Folk, World, & Country",
+      "Subgenre": "Folk",
+      "Image": "https://img.discogs.com/n007uHtXYCvhi4ekrukARZ0AIwM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1596438-1301991747.jpeg.jpg"
+    },
+    {
+      "Number": "98",
+      "Album": "This Year's Model",
+      "Artist": "Elvis Costello",
+      "Year": "1978",
+      "Genre": "Rock",
+      "Subgenre": "New Wave",
+      "Image": "https://img.discogs.com/Atvbps6PMEfWwRBtA9AZ6VLKliU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-756654-1301444206.jpeg.jpg"
+    },
+    {
+      "Number": "99",
+      "Album": "There's a Riot Goin' On",
+      "Artist": "Sly & The Family Stone",
+      "Year": "1971",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Rhythm & Blues, Funk",
+      "Image": "https://img.discogs.com/yFKasNqwttjERibtyTuIJlwPJEg=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-30419-1611130940-4833.jpeg.jpg"
+    },
+    {
+      "Number": "100",
+      "Album": "Odessey and Oracle",
+      "Artist": "The Zombies",
+      "Year": "1968",
+      "Genre": "Rock",
+      "Subgenre": "Psychedelic Rock",
+      "Image": "https://img.discogs.com/mLSF6sgNvSELlWzezMWSLv_w4h4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2652520-1454618815-8299.jpeg.jpg"
+    },
+    {
+      "Number": "101",
+      "Album": "In the Wee Small Hours",
+      "Artist": "Frank Sinatra",
+      "Year": "1955",
+      "Genre": "Jazz, Pop",
+      "Subgenre": "Big Band, Ballad",
+      "Image": "https://img.discogs.com/3h-76sNMEhJz_d5WOrgSZJ4k2-0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1376047-1336953366-1209.jpeg.jpg"
+    },
+    {
+      "Number": "102",
+      "Album": "Fresh Cream",
+      "Artist": "Cream",
+      "Year": "1966",
+      "Genre": "Rock, Blues",
+      "Subgenre": "Blues Rock, Electric Blues",
+      "Image": "https://img.discogs.com/ubDRK7Q_luQVNPsGofXCLP2g0YE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1751883-1538129913-3491.jpeg.jpg"
+    },
+    {
+      "Number": "103",
+      "Album": "Giant Steps",
+      "Artist": "John Coltrane",
+      "Year": "1959",
+      "Genre": "Jazz",
+      "Subgenre": "Hard Bop",
+      "Image": "https://img.discogs.com/uRTc5VTfiYGpDAKLg6crcqVucFQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2155244-1282286595.jpeg.jpg"
+    },
+    {
+      "Number": "104",
+      "Album": "Sweet Baby James",
+      "Artist": "James Taylor",
+      "Year": "1970",
+      "Genre": "Rock",
+      "Subgenre": "Folk Rock, Acoustic, Soft Rock",
+      "Image": "https://img.discogs.com/572lf7DoUsyQmqZzUv4ukWXkPnA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7254128-1559296274-4995.jpeg.jpg"
+    },
+    {
+      "Number": "105",
+      "Album": "Modern Sounds in Country and Western Music",
+      "Artist": "Ray Charles",
+      "Year": "1962",
+      "Genre": "Funk , Soul, Folk, World, & Country",
+      "Subgenre": "Country, Rhythm & Blues",
+      "Image": "https://img.discogs.com/0Zj9O9wo0tTcmuRYA5_5Meg5fAw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14228194-1570295581-7847.jpeg.jpg"
+    },
+    {
+      "Number": "106",
+      "Album": "Rocket to Russia",
+      "Artist": "Ramones",
+      "Year": "1977",
+      "Genre": "Rock",
+      "Subgenre": "Rock & Roll, Punk",
+      "Image": "https://img.discogs.com/NMgXNP-zh1aw2Unr-9SlE3nGKgo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1292101-1206985577.jpeg.jpg"
+    },
+    {
+      "Number": "107",
+      "Album": "Portrait of a Legend 1951-1964",
+      "Artist": "Sam Cooke",
+      "Year": "2003",
+      "Genre": "Latin, Funk , Soul",
+      "Subgenre": "Soul, Rhythm & Blues, Gospel, Cha-Cha",
+      "Image": "https://img.discogs.com/V0z5NWhoFbhMwOHew7JGwDN-N1Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14603750-1578157002-8216.jpeg.jpg"
+    },
+    {
+      "Number": "108",
+      "Album": "Hunky Dory",
+      "Artist": "David Bowie",
+      "Year": "1971",
+      "Genre": "Rock",
+      "Subgenre": "Classic Rock, Glam",
+      "Image": "https://img.discogs.com/nahNx3fZa7vg_UKj4in9Hv3xGAY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-422921-1352848584-4544.jpeg.jpg"
+    },
+    {
+      "Number": "109",
+      "Album": "Aftermath",
+      "Artist": "The Rolling Stones",
+      "Year": "1966",
+      "Genre": "Rock",
+      "Subgenre": "Blues Rock, Pop Rock",
+      "Image": "https://img.discogs.com/-c211UgLFSmdym9Z0ll2uwOAggA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5686588-1418577627-5021.jpeg.jpg"
+    },
+    {
+      "Number": "110",
+      "Album": "Loaded",
+      "Artist": "The Velvet Underground",
+      "Year": "1970",
+      "Genre": "Rock",
+      "Subgenre": "Art Rock, Classic Rock",
+      "Image": "https://img.discogs.com/aZAc7uQneCrTcJccf2CoPIgF8_Q=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-894229-1171240705.jpeg.jpg"
+    },
+    {
+      "Number": "111",
+      "Album": "The Bends",
+      "Artist": "Radiohead",
+      "Year": "1995",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock",
+      "Image": "https://img.discogs.com/QasyIfZScoV23irVj_BBtb9RbQk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-368116-1588883936-8247.jpeg.jpg"
+    },
+    {
+      "Number": "112",
+      "Album": "If You Can Believe Your Eyes and Ears",
+      "Artist": "The Mamas and the Papas",
+      "Year": "1966",
+      "Genre": "Rock",
+      "Subgenre": "Folk Rock, Pop Rock",
+      "Image": "https://img.discogs.com/5186402-WAgCQbVXR1G9TvwxpCI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10368014-1496100428-3898.jpeg.jpg"
+    },
+    {
+      "Number": "113",
+      "Album": "Court and Spark",
+      "Artist": "Joni Mitchell",
+      "Year": "1974",
+      "Genre": "Rock",
+      "Subgenre": "Soft Rock, Pop Rock",
+      "Image": "https://img.discogs.com/QBHWs68dh9ncg-UmlDkSl6RVLWU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-892417-1519955876-8631.jpeg.jpg"
+    },
+    {
+      "Number": "114",
+      "Album": "Disraeli Gears",
+      "Artist": "Cream",
+      "Year": "1967",
+      "Genre": "Rock",
+      "Subgenre": "Psychedelic Rock, Blues Rock",
+      "Image": "https://img.discogs.com/KtxaFERAtdr8bC-D0iUapmdONrE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1358659-1496055161-7572.jpeg.jpg"
+    },
+    {
+      "Number": "115",
+      "Album": "The Who Sell Out",
+      "Artist": "The Who",
+      "Year": "1967",
+      "Genre": "Rock",
+      "Subgenre": "Psychedelic Rock, Mod",
+      "Image": "https://img.discogs.com/tnHxBTqOjd6Ey0mIVf3-EquOAbg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2229657-1338708241-6734.jpeg.jpg"
+    },
+    {
+      "Number": "116",
+      "Album": "Out of Our Heads",
+      "Artist": "The Rolling Stones",
+      "Year": "1965",
+      "Genre": "Rock",
+      "Subgenre": "Blues Rock, Rock & Roll",
+      "Image": "https://img.discogs.com/VG4NyFWgYn94FNh_oUVkaZOpWPU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3440213-1330460237.jpeg.jpg"
+    },
+    {
+      "Number": "117",
+      "Album": "Layla and Other Assorted Love Songs",
+      "Artist": "Derek and the Dominos",
+      "Year": "1970",
+      "Genre": "Rock",
+      "Subgenre": "Blues Rock",
+      "Image": "https://img.discogs.com/MLdViO28IzHK9IOykICM-M7XpZM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1306997-1373971433-8982.jpeg.jpg"
+    },
+    {
+      "Number": "118",
+      "Album": "Late Registration",
+      "Artist": "Kanye West",
+      "Year": "2005",
+      "Genre": "Hip Hop",
+      "Subgenre": "None",
+      "Image": "https://img.discogs.com/VbbpZ8QxDC6AsPnMu9EIEVjO6CE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-494169-1501269435-3172.jpeg.jpg"
+    },
+    {
+      "Number": "119",
+      "Album": "At Last!",
+      "Artist": "Etta James",
+      "Year": "1960",
+      "Genre": "Funk , Soul, Blues",
+      "Subgenre": "Rhythm & Blues, Soul",
+      "Image": "https://img.discogs.com/Urq8k_itM9mY6dWlwazx6dPUPos=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4181251-1589229600-4564.png.jpg"
+    },
+    {
+      "Number": "120",
+      "Album": "Sweetheart of the Rodeo",
+      "Artist": "The Byrds",
+      "Year": "1968",
+      "Genre": "Rock",
+      "Subgenre": "Folk Rock, Country Rock",
+      "Image": "https://img.discogs.com/gLTuhrLSN8V-E-Ic8t_jz8YpeOE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1081165-1438210211-8591.jpeg.jpg"
+    },
+    {
+      "Number": "121",
+      "Album": "Stand!",
+      "Artist": "Sly & The Family Stone",
+      "Year": "1969",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Funk, Psychedelic, Disco",
+      "Image": "https://img.discogs.com/yFKasNqwttjERibtyTuIJlwPJEg=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-30419-1611130940-4833.jpeg.jpg"
+    },
+    {
+      "Number": "122",
+      "Album": "The Harder They Come",
+      "Artist": "Various Artists",
+      "Year": "1972",
+      "Genre": "Reggae,Pop,Folk, World, & Country,Stage & Screen",
+      "Subgenre": "Reggae,Roots Reggae,Rocksteady,Contemporary,Soundtrack",
+      "Image": "https://img.discogs.com/5LzXZ9cXzbqYZMMEENvv8sJ56LA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10215739-1493545341-3569.jpeg.jpg"
+    },
+    {
+      "Number": "123",
+      "Album": "Raising Hell",
+      "Artist": "Run D.M.C.",
+      "Year": "1986",
+      "Genre": "Hip Hop",
+      "Subgenre": "None",
+      "Image": "https://img.discogs.com/XOgzgzdnrmvyyLx9PmOlHejllvU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-230209-1363050681-5143.jpeg.jpg"
+    },
+    {
+      "Number": "124",
+      "Album": "Moby Grape",
+      "Artist": "Moby Grape",
+      "Year": "1967",
+      "Genre": "Rock",
+      "Subgenre": "Folk Rock, Psychedelic Rock",
+      "Image": "https://img.discogs.com/tklTU7nMYlsG_vMBpXqtnwXbLBo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1123849-1588093682-3225.jpeg.jpg"
+    },
+    {
+      "Number": "125",
+      "Album": "Pearl",
+      "Artist": "Janis Joplin",
+      "Year": "1971",
+      "Genre": "Rock, Blues",
+      "Subgenre": "Blues Rock",
+      "Image": "https://img.discogs.com/L5kSpl_xMc-ef-QWrj7cim2cGj4=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-120232-1636151678-9350.jpeg.jpg"
+    },
+    {
+      "Number": "126",
+      "Album": "Catch a Fire",
+      "Artist": "The Wailers",
+      "Year": "1973",
+      "Genre": "Reggae",
+      "Subgenre": "Roots Reggae",
+      "Image": "https://img.discogs.com/hf--ijNX5_TDGVRDWnH1F8-99vQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-416733-1549542237-9463.jpeg.jpg"
+    },
+    {
+      "Number": "127",
+      "Album": "Younger Than Yesterday",
+      "Artist": "The Byrds",
+      "Year": "1967",
+      "Genre": "Rock",
+      "Subgenre": "Folk Rock, Psychedelic Rock",
+      "Image": "https://img.discogs.com/88fnHKJAjmIGVHS9fy89AShQAFA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1562820-1235504986.jpeg.jpg"
+    },
+    {
+      "Number": "128",
+      "Album": "Raw Power",
+      "Artist": "Iggy and The Stooges",
+      "Year": "1973",
+      "Genre": "Rock",
+      "Subgenre": "Garage Rock, Hard Rock, Punk",
+      "Image": "https://img.discogs.com/5NvCvAX0jbZgTSFEd-2kW3zC5pk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-489717-1268136694.jpeg.jpg"
+    },
+    {
+      "Number": "129",
+      "Album": "Remain in Light",
+      "Artist": "Talking Heads",
+      "Year": "1980",
+      "Genre": "Electronic, Rock",
+      "Subgenre": "New Wave, Art Rock, Funk",
+      "Image": "https://img.discogs.com/ElhIjXpAsXeXktsQh_T41tNIqoY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-116491-1541945472-4795.jpeg.jpg"
+    },
+    {
+      "Number": "130",
+      "Album": "Marquee Moon",
+      "Artist": "Television",
+      "Year": "1977",
+      "Genre": "Rock",
+      "Subgenre": "New Wave, Punk",
+      "Image": "https://img.discogs.com/f91sqguI0Hx1TV2bQ-aNBoGplE8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8765304-1468293975-3174.jpeg.jpg"
+    },
+    {
+      "Number": "131",
+      "Album": "Paranoid",
+      "Artist": "Black Sabbath",
+      "Year": "1970",
+      "Genre": "Rock",
+      "Subgenre": "Hard Rock, Heavy Metal",
+      "Image": "https://img.discogs.com/HKz4tsA1OIyD05jid1cq4fQOWGo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-696772-1389622198-5735.jpeg.jpg"
+    },
+    {
+      "Number": "132",
+      "Album": "Saturday Night Fever: The Original Movie Sound Track",
+      "Artist": "Various Artists",
+      "Year": "1977",
+      "Genre": "Electronic, Stage & Screen",
+      "Subgenre": "Soundtrack, Disco",
+      "Image": "https://img.discogs.com/Y43IgsBfR5jkDM5msduCUVIr-5M=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9532890-1588926154-9796.jpeg.jpg"
+    },
+    {
+      "Number": "133",
+      "Album": "The Wild, the Innocent & the Street Shuffle",
+      "Artist": "Bruce Springsteen",
+      "Year": "1973",
+      "Genre": "Rock",
+      "Subgenre": "None",
+      "Image": "https://img.discogs.com/IXa_A2BXY6iyuTp-2oFmFhTpCP0=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-3485-1517672051-5292.jpeg.jpg"
+    },
+    {
+      "Number": "134",
+      "Album": "Ready to Die",
+      "Artist": "The Notorious B.I.G.",
+      "Year": "1994",
+      "Genre": "Hip Hop",
+      "Subgenre": "Thug Rap",
+      "Image": "https://img.discogs.com/U-Au3aTbXnfVxhB2cKtqzeJVtFs=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-65049-1476549718-2125.jpeg.jpg"
+    },
+    {
+      "Number": "135",
+      "Album": "Slanted and Enchanted",
+      "Artist": "Pavement",
+      "Year": "1992",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock",
+      "Image": "https://img.discogs.com/AuhNCOflAPDthG1PShvgC04aenQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-921223-1349134183-2333.jpeg.jpg"
+    },
+    {
+      "Number": "136",
+      "Album": "Greatest Hits",
+      "Artist": "Elton John",
+      "Year": "1974",
+      "Genre": "Rock",
+      "Subgenre": "Classic Rock",
+      "Image": "https://img.discogs.com/M0ugqXdX38C1Z1BDu_Y4rpXLdXE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2205129-1396358933-1891.jpeg.jpg"
+    },
+    {
+      "Number": "137",
+      "Album": "Tim",
+      "Artist": "The Replacements",
+      "Year": "1985",
+      "Genre": "Rock",
+      "Subgenre": "Indie Rock",
+      "Image": "https://img.discogs.com/p24jvVWfw_OfyPmVpX9vn9crJTY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-995839-1378266710-7019.jpeg.jpg"
+    },
+    {
+      "Number": "138",
+      "Album": "The Chronic",
+      "Artist": "Dr. Dre",
+      "Year": "1992",
+      "Genre": "Hip Hop",
+      "Subgenre": "Gangsta",
+      "Image": "https://img.discogs.com/gs8ppJ6qo-fu3gN73J3yktQXaIY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-226082-1239894271.jpeg.jpg"
+    },
+    {
+      "Number": "139",
+      "Album": "Rejuvenation",
+      "Artist": "The Meters",
+      "Year": "1974",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Bayou Funk, Soul",
+      "Image": "https://img.discogs.com/ydP_G4aRu5RGxeUyjj2dt3Trb4Q=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-431938-1292483368.jpeg.jpg"
+    },
+    {
+      "Number": "140",
+      "Album": "Parallel Lines",
+      "Artist": "Blondie",
+      "Year": "1978",
+      "Genre": "Electronic, Rock",
+      "Subgenre": "New Wave, Pop Rock, Punk, Disco",
+      "Image": "https://img.discogs.com/Y0RFORmMsJYQ8QO4gZ0WWE-S6HI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2580199-1327649065.jpeg.jpg"
+    },
+    {
+      "Number": "141",
+      "Album": "Live at the Regal",
+      "Artist": "B.B. King",
+      "Year": "1965",
+      "Genre": "Blues",
+      "Subgenre": "Chicago Blues",
+      "Image": "https://img.discogs.com/R-L_fmUUJERFZu-cRAkAPYXgenI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5984765-1527347984-7492.jpeg.jpg"
+    },
+    {
+      "Number": "142",
+      "Album": "A Christmas Gift for You From Phil Spector",
+      "Artist": "Phil Spector",
+      "Year": "1963",
+      "Genre": "Rock, Funk , Soul, Pop",
+      "Subgenre": "Pop Rock",
+      "Image": "https://img.discogs.com/C_UpwA_plxBl3GT0KjsFJXW7E-0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1162509-1514012854-1679.jpeg.jpg"
+    },
+    {
+      "Number": "143",
+      "Album": "Gris-Gris",
+      "Artist": "Dr. John, the Night Tripper",
+      "Year": "1968",
+      "Genre": "Jazz, Rock, Funk , Soul, Blues",
+      "Subgenre": "Soul-Jazz, Louisiana Blues, Fusion, Bayou Funk",
+      "Image": "https://img.discogs.com/vOw-xxpwwXKFRPsV8lB1FeAS5ac=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-423937-1573087494-2232.jpeg.jpg"
+    },
+    {
+      "Number": "144",
+      "Album": "Straight Outta Compton",
+      "Artist": "N.W.A",
+      "Year": "1988",
+      "Genre": "Hip Hop",
+      "Subgenre": "Gangsta",
+      "Image": "https://img.discogs.com/y3edEk89oA3w9WBm1jfvHXFYFMI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-103648-1176825837.jpeg.jpg"
+    },
+    {
+      "Number": "145",
+      "Album": "Aja",
+      "Artist": "Steely Dan",
+      "Year": "1977",
+      "Genre": "Jazz, Rock",
+      "Subgenre": "Jazz-Rock, Classic Rock",
+      "Image": "https://img.discogs.com/dCBCou9twGJzGi3c3r-IUFBMYLs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1842334-1319595784.jpeg.jpg"
+    },
+    {
+      "Number": "146",
+      "Album": "Surrealistic Pillow",
+      "Artist": "Jefferson Airplane",
+      "Year": "1967",
+      "Genre": "Rock",
+      "Subgenre": "Folk Rock, Psychedelic Rock",
+      "Image": "https://img.discogs.com/m-sGoeX1-jYMXiKWTCmO1_RfikI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2408506-1282394676.jpeg.jpg"
+    },
+    {
+      "Number": "147",
+      "Album": "Deja vu",
+      "Artist": "Crosby, Stills, Nash & Young",
+      "Year": "1970",
+      "Genre": "Rock",
+      "Subgenre": "Classic Rock",
+      "Image": "https://img.discogs.com/wCDvACVc1usoChKYsn21GXc6ZNg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1132195-1598904144-3794.jpeg.jpg"
+    },
+    {
+      "Number": "148",
+      "Album": "Houses of the Holy",
+      "Artist": "Led Zeppelin",
+      "Year": "1973",
+      "Genre": "Rock",
+      "Subgenre": "Classic Rock",
+      "Image": "https://img.discogs.com/43cMSCE5hOred_mTfLH-O3VZSLk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-455077-1588880788-2226.jpeg.jpg"
+    },
+    {
+      "Number": "149",
+      "Album": "Santana",
+      "Artist": "Santana",
+      "Year": "1969",
+      "Genre": "Rock, Latin, Funk , Soul",
+      "Subgenre": "Afro-Cuban, Psychedelic Rock",
+      "Image": "https://img.discogs.com/JuvBcoL-FgNF-tLPmryrNjL5wtg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-737224-1374075557-2725.jpeg.jpg"
+    },
+    {
+      "Number": "150",
+      "Album": "Darkness on the Edge of Town",
+      "Artist": "Bruce Springsteen",
+      "Year": "1978",
+      "Genre": "Rock",
+      "Subgenre": "Pop Rock",
+      "Image": "https://img.discogs.com/kP6GtNCx-_U28c5VEKWIAmHgl5U=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3012371-1311677961.jpeg.jpg"
+    },
+    {
+      "Number": "151",
+      "Album": "Funeral",
+      "Artist": "Arcade Fire",
+      "Year": "2004",
+      "Genre": "Rock",
+      "Subgenre": "Indie Rock",
+      "Image": "https://img.discogs.com/4ibccJQW3EhzjhLzrzoWB8H5e10=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-432932-1427012095-1808.jpeg.jpg"
+    },
+    {
+      "Number": "152",
+      "Album": "The B 52's , Play Loud",
+      "Artist": "The B 52's",
+      "Year": "1979",
+      "Genre": "Electronic, Rock, Pop",
+      "Subgenre": "New Wave, Punk, Mod",
+      "Image": "https://img.discogs.com/qV6yatboB9WW_p0m1fmZGaY08pw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2540241-1420568536-4818.jpeg.jpg"
+    },
+    {
+      "Number": "153",
+      "Album": "The Low End Theory",
+      "Artist": "A Tribe Called Quest",
+      "Year": "1991",
+      "Genre": "Hip Hop",
+      "Subgenre": "Conscious",
+      "Image": "https://img.discogs.com/gUTpFaXg2kpqigGgT-tCBcfaj6E=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-87291-1550096809-8409.jpeg.jpg"
+    },
+    {
+      "Number": "154",
+      "Album": "Moanin' in the Moonlight",
+      "Artist": "Howlin' Wolf",
+      "Year": "1958",
+      "Genre": "Blues",
+      "Subgenre": "Chicago Blues",
+      "Image": "https://img.discogs.com/z0BEzZH8YkGeQghyXfLhP_nX2bI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8014016-1453494733-8811.jpeg.jpg"
+    },
+    {
+      "Number": "155",
+      "Album": "Pretenders",
+      "Artist": "Pretenders",
+      "Year": "1980",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock, New Wave",
+      "Image": "https://img.discogs.com/68yBokfJxmIhHfkio9x6hzx1xzM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1161224-1236892033.jpeg.jpg"
+    },
+    {
+      "Number": "156",
+      "Album": "Paul's Boutique",
+      "Artist": "Beastie Boys",
+      "Year": "1989",
+      "Genre": "Hip Hop, Rock, Funk , Soul",
+      "Subgenre": "Alternative Rock, Pop Rap, Psychedelic",
+      "Image": "https://img.discogs.com/dEdv5razZguhL6hwRU_BR0SsAEE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1405831-1424792172-8982.jpeg.jpg"
+    },
+    {
+      "Number": "157",
+      "Album": "Closer",
+      "Artist": "Joy Division",
+      "Year": "1980",
+      "Genre": "Rock",
+      "Subgenre": "Post-Punk, New Wave",
+      "Image": "https://img.discogs.com/JdiR-FN8mGlS6TKZma5oRjiBRmM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-81692-1538992531-7551.jpeg.jpg"
+    },
+    {
+      "Number": "158",
+      "Album": "Captain Fantastic and the Brown Dirt Cowboy",
+      "Artist": "Elton John",
+      "Year": "1975",
+      "Genre": "Rock",
+      "Subgenre": "Pop Rock, Classic Rock",
+      "Image": "https://img.discogs.com/J5GTTqr6Is8wYhyP63O1ig8VOr4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-811010-1161366395.jpeg.jpg"
+    },
+    {
+      "Number": "159",
+      "Album": "Alive!",
+      "Artist": "KISS",
+      "Year": "1975",
+      "Genre": "Rock",
+      "Subgenre": "Hard Rock, Glam",
+      "Image": "https://img.discogs.com/a5kmctMFjXfq-A8rgJIgr8RHzRE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4530023-1500850218-5573.jpeg.jpg"
+    },
+    {
+      "Number": "160",
+      "Album": "Electric Warrior",
+      "Artist": "T. Rex",
+      "Year": "1971",
+      "Genre": "Rock",
+      "Subgenre": "Glam, Classic Rock",
+      "Image": "https://img.discogs.com/RYzI2ZN-4jSyZrSquNr0hygLOQ8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-451183-1384080656-2600.jpeg.jpg"
+    },
+    {
+      "Number": "161",
+      "Album": "The Dock of the Bay",
+      "Artist": "Otis Redding",
+      "Year": "1968",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Rhythm & Blues, Soul",
+      "Image": "https://img.discogs.com/-4CHkTBOvsUtrWmUr-w3rHvxyXg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-937690-1585410216-9810.jpeg.jpg"
+    },
+    {
+      "Number": "162",
+      "Album": "OK Computer",
+      "Artist": "Radiohead",
+      "Year": "1997",
+      "Genre": "Electronic, Rock",
+      "Subgenre": "Alternative Rock",
+      "Image": "https://img.discogs.com/I_K5trVWAzVg2INuFsS6QTDQMNU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4950798-1388623611-2362.jpeg.jpg"
+    },
+    {
+      "Number": "163",
+      "Album": "1999",
+      "Artist": "Prince",
+      "Year": "1982",
+      "Genre": "Funk , Soul, Pop",
+      "Subgenre": "None",
+      "Image": "https://img.discogs.com/bxKNu4cThG2kDzaJIaOTOlpdazw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10258354-1494378751-7337.jpeg.jpg"
+    },
+    {
+      "Number": "164",
+      "Album": "The Very Best of Linda Ronstadt",
+      "Artist": "Linda Ronstadt",
+      "Year": "2002",
+      "Genre": "Rock, Pop",
+      "Subgenre": "Soft Rock, Pop Rock",
+      "Image": "https://img.discogs.com/D9YHBRfcE1lq7Itzh1GQZTkZ8Ak=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2217279-1270459677.jpeg.jpg"
+    },
+    {
+      "Number": "165",
+      "Album": "Let's Get It On",
+      "Artist": "Marvin Gaye",
+      "Year": "1973",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Soul",
+      "Image": "https://img.discogs.com/jrZJRie3FpGzMnLKp6LDPNgmrpQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-305438-1550584469-8419.jpeg.jpg"
+    },
+    {
+      "Number": "166",
+      "Album": "Imperial Bedroom",
+      "Artist": "Elvis Costello & The Attractions",
+      "Year": "1982",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock, New Wave",
+      "Image": "https://img.discogs.com/heGFU7nqTOK_bbSlJTC8oXHZUkk=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-55029-1236334161.jpeg.jpg"
+    },
+    {
+      "Number": "167",
+      "Album": "Master of Puppets",
+      "Artist": "Metallica",
+      "Year": "1986",
+      "Genre": "Rock",
+      "Subgenre": "Thrash, Speed Metal",
+      "Image": "https://img.discogs.com/1JvwInMpVcDXl3wn8qeEaoCu4v8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1549636-1265948094.jpeg.jpg"
+    },
+    {
+      "Number": "168",
+      "Album": "My Aim Is True",
+      "Artist": "Elvis Costello",
+      "Year": "1977",
+      "Genre": "Rock",
+      "Subgenre": "New Wave, Pop Rock",
+      "Image": "https://img.discogs.com/RBee9-seTVTBox_JqlV1tILWJNc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-471422-1591436297-4238.jpeg.jpg"
+    },
+    {
+      "Number": "169",
+      "Album": "Exodus",
+      "Artist": "Bob Marley & The Wailers",
+      "Year": "1977",
+      "Genre": "Reggae",
+      "Subgenre": "Reggae, Roots Reggae",
+      "Image": "https://img.discogs.com/-VrNfnD_foEdDFVrzwTs50lsCeY=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-41441-1621806162-5474.jpeg.jpg"
+    },
+    {
+      "Number": "170",
+      "Album": "Live at Leeds",
+      "Artist": "The Who",
+      "Year": "1970",
+      "Genre": "Rock",
+      "Subgenre": "Classic Rock, Blues Rock, Hard Rock",
+      "Image": "https://img.discogs.com/8lSYxVPUF8HokcW6rgZuk8BbVNg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4501716-1366669586-2267.jpeg.jpg"
+    },
+    {
+      "Number": "171",
+      "Album": "The Notorious Byrd Brothers",
+      "Artist": "The Byrds",
+      "Year": "1968",
+      "Genre": "Rock",
+      "Subgenre": "Psychedelic Rock, Folk Rock, Country Rock, Pop Rock",
+      "Image": "https://img.discogs.com/ZUgGjPNwEt0NOIcmqTwu69W6jHs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8338360-1459699424-4876.jpeg.jpg"
+    },
+    {
+      "Number": "172",
+      "Album": "Every Picture Tells a Story",
+      "Artist": "Rod Stewart",
+      "Year": "1971",
+      "Genre": "Rock",
+      "Subgenre": "Pop Rock",
+      "Image": "https://img.discogs.com/hRF_zi3yJOBJniXpjvmlQb41C_0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8606935-1465238427-4494.jpeg.jpg"
+    },
+    {
+      "Number": "173",
+      "Album": "Something,Anything?",
+      "Artist": "Todd Rundgren",
+      "Year": "1972",
+      "Genre": "Rock",
+      "Subgenre": "Power Pop, Pop Rock, Prog Rock",
+      "Image": "https://img.discogs.com/c2BNmhdyOie2eAMt6xbUleUag0o=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-138572-1444192307-5932.jpeg.jpg"
+    },
+    {
+      "Number": "174",
+      "Album": "Desire",
+      "Artist": "Bob Dylan",
+      "Year": "1976",
+      "Genre": "Rock",
+      "Subgenre": "Folk Rock",
+      "Image": "https://img.discogs.com/bmAb5728YP1zcMhUcduaFrH5pxs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10672431-1581814381-7517.jpeg.jpg"
+    },
+    {
+      "Number": "175",
+      "Album": "Close to You",
+      "Artist": "Carpenters",
+      "Year": "1970",
+      "Genre": "Rock, Pop",
+      "Subgenre": "Pop Rock, Vocal",
+      "Image": "https://img.discogs.com/INNPVn6JMIw1DuH1Jp8lU6ccKh4=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-170357-1640092497-8245.jpeg.jpg"
+    },
+    {
+      "Number": "176",
+      "Album": "Rocks",
+      "Artist": "Aerosmith",
+      "Year": "1976",
+      "Genre": "Rock",
+      "Subgenre": "Hard Rock, Classic Rock",
+      "Image": "https://img.discogs.com/pBUC70rCWaZNIPS68cPj_5SLC0Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-380484-1557603317-5803.jpeg.jpg"
+    },
+    {
+      "Number": "177",
+      "Album": "One Nation Under a Groove",
+      "Artist": "Funkadelic",
+      "Year": "1978",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Funk",
+      "Image": "https://img.discogs.com/LuSONPSvH-n54G0dDwutsrGLMmE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-475153-1174977519.jpeg.jpg"
+    },
+    {
+      "Number": "178",
+      "Album": "The Anthology: 1961-1977",
+      "Artist": "Curtis Mayfield and The Impressions",
+      "Year": "1992",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Rhythm & Blues, Soul, Funk",
+      "Image": "https://img.discogs.com/U4xmMN3Uu7G3QbHTpUjoCLSZ9x0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2310634-1284951918.jpeg.jpg"
+    },
+    {
+      "Number": "179",
+      "Album": "The Definitive Collection",
+      "Artist": "ABBA",
+      "Year": "2001",
+      "Genre": "Electronic, Pop",
+      "Subgenre": "Europop, Synth-pop, Disco",
+      "Image": "https://img.discogs.com/eFYJ0RsqfdwmrHXfjBR8khuYrhE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-555054-1146139398.jpeg.jpg"
+    },
+    {
+      "Number": "180",
+      "Album": "The Rolling Stones, Now!",
+      "Artist": "The Rolling Stones",
+      "Year": "1965",
+      "Genre": "Rock, Blues, Pop",
+      "Subgenre": "Pop Rock, Rhythm & Blues, Rock & Roll",
+      "Image": "https://img.discogs.com/yAoeAdxwEtWuOMw0Y63NCvASNNY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3996295-1351780101-8753.jpeg.jpg"
+    },
+    {
+      "Number": "181",
+      "Album": "Natty Dread",
+      "Artist": "Bob Marley & The Wailers",
+      "Year": "1974",
+      "Genre": "Reggae",
+      "Subgenre": "Reggae, Roots Reggae",
+      "Image": "https://img.discogs.com/-VrNfnD_foEdDFVrzwTs50lsCeY=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-41441-1621806162-5474.jpeg.jpg"
+    },
+    {
+      "Number": "182",
+      "Album": "Fleetwood Mac",
+      "Artist": "Fleetwood Mac",
+      "Year": "1975",
+      "Genre": "Rock, Pop",
+      "Subgenre": "Folk Rock, Pop Rock",
+      "Image": "https://img.discogs.com/SOCyk997xMitOTf4zYzq6nXvCAk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13552836-1556385191-7311.jpeg.jpg"
+    },
+    {
+      "Number": "183",
+      "Album": "Red Headed Stranger",
+      "Artist": "Willie Nelson",
+      "Year": "1975",
+      "Genre": "Folk, World, & Country",
+      "Subgenre": "Country",
+      "Image": "https://img.discogs.com/hROWSj3oVFDpALqPNxeyPvFt4vM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1560450-1539836188-5933.jpeg.jpg"
+    },
+    {
+      "Number": "184",
+      "Album": "The Immaculate Collection",
+      "Artist": "Madonna",
+      "Year": "1990",
+      "Genre": "Electronic, Pop",
+      "Subgenre": "Synth-pop",
+      "Image": "https://img.discogs.com/dtdzRKL02N4d1s3AUtNkDAV5bx0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6363459-1417392159-7454.jpeg.jpg"
+    },
+    {
+      "Number": "185",
+      "Album": "The Stooges",
+      "Artist": "The Stooges",
+      "Year": "1969",
+      "Genre": "Rock",
+      "Subgenre": "Garage Rock, Punk",
+      "Image": "https://img.discogs.com/5ZHo6QgHXimC3ojA-Qy-2LBDVIc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4282482-1375913082-1796.jpeg.jpg"
+    },
+    {
+      "Number": "186",
+      "Album": "Fresh",
+      "Artist": "Sly & The Family Stone",
+      "Year": "1973",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Rhythm & Blues, Funk",
+      "Image": "https://img.discogs.com/yFKasNqwttjERibtyTuIJlwPJEg=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-30419-1611130940-4833.jpeg.jpg"
+    },
+    {
+      "Number": "187",
+      "Album": "So",
+      "Artist": "Peter Gabriel",
+      "Year": "1986",
+      "Genre": "Electronic, Rock, Funk , Soul, Pop",
+      "Subgenre": "Art Rock, Pop Rock, Synth-pop, Funk",
+      "Image": "https://img.discogs.com/JGjYbJMRxfrAHWQhsNEX60sDxoM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-379028-1159622661.jpeg.jpg"
+    },
+    {
+      "Number": "188",
+      "Album": "Buffalo Springfield Again",
+      "Artist": "Buffalo Springfield",
+      "Year": "1967",
+      "Genre": "Rock, Pop",
+      "Subgenre": "Country Rock",
+      "Image": "https://img.discogs.com/6P8Du71ISIpWA-hHTpb3WcEesGg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2530941-1320651689.jpeg.jpg"
+    },
+    {
+      "Number": "189",
+      "Album": "Happy Trails",
+      "Artist": "Quicksilver Messenger Service",
+      "Year": "1969",
+      "Genre": "Rock",
+      "Subgenre": "Acid Rock, Psychedelic Rock",
+      "Image": "https://img.discogs.com/kRn0MTTT_B2-4PJVHnMDNA6gZGw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3043498-1316889116.jpeg.jpg"
+    },
+    {
+      "Number": "190",
+      "Album": "From Elvis in Memphis",
+      "Artist": "Elvis Presley",
+      "Year": "1969",
+      "Genre": "Rock, Funk , Soul, Folk, World, & Country",
+      "Subgenre": "Country, Soul",
+      "Image": "https://img.discogs.com/rv_ixIXArnQFS6nGTFL9_WxwB_s=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-27518-1622401909-5918.jpeg.jpg"
+    },
+    {
+      "Number": "191",
+      "Album": "Fun House",
+      "Artist": "The Stooges",
+      "Year": "1970",
+      "Genre": "Rock",
+      "Subgenre": "Garage Rock, Punk",
+      "Image": "https://img.discogs.com/_RQwE0I2WyxudDnQpL3Ae9wAvZs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1352562-1395069812-3469.jpeg.jpg"
+    },
+    {
+      "Number": "192",
+      "Album": "The Gilded Palace of Sin",
+      "Artist": "The Flying Burrito Brothers",
+      "Year": "1969",
+      "Genre": "Rock, Folk, World, & Country",
+      "Subgenre": "Country Rock",
+      "Image": "https://img.discogs.com/4BHn6pe21XuTht_6kbGIu_lMDhg=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-285133-1121852993.jpg.jpg"
+    },
+    {
+      "Number": "193",
+      "Album": "Dookie",
+      "Artist": "Green Day",
+      "Year": "1994",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock, Pop Punk, Punk",
+      "Image": "https://img.discogs.com/jvcpcmyb3l19X2jtWCmM3YDmQps=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2103788-1507814667-9558.jpeg.jpg"
+    },
+    {
+      "Number": "194",
+      "Album": "Transformer",
+      "Artist": "Lou Reed",
+      "Year": "1972",
+      "Genre": "Rock",
+      "Subgenre": "Glam",
+      "Image": "https://img.discogs.com/GQVUyp3-8LX5tOH7FzErf2QHgqs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-727363-1465323262-6330.jpeg.jpg"
+    },
+    {
+      "Number": "195",
+      "Album": "Blues Breakers With Eric Clapton \"The Beano Album\"",
+      "Artist": "John Mayall & The Bluesbreakers",
+      "Year": "1966",
+      "Genre": "Rock,EBlues",
+      "Subgenre": "Blues Rock, Electric Blues, Harmonica Blues",
+      "Image": "https://img.discogs.com/o-8qaKly9mbomylL_S3THO99Eb4=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-291340-1627134214-4152.jpeg.jpg"
+    },
+    {
+      "Number": "196",
+      "Album": "Nuggets: Original Artyfacts From the First Psychedelic Era, 1965-1968",
+      "Artist": "Various Artists",
+      "Year": "1998",
+      "Genre": "Rock",
+      "Subgenre": "Garage Rock, Psychedelic Rock",
+      "Image": "https://img.discogs.com/kHxcMWY2-5eUEcOQR8a18yPduEg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13732841-1559982012-2453.jpeg.jpg"
+    },
+    {
+      "Number": "197",
+      "Album": "Murmur",
+      "Artist": "R.E.M.",
+      "Year": "1983",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock",
+      "Image": "https://img.discogs.com/YWYuRJ3CvrZu-Eft2wuq4v8Vn-A=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-74500-1629114336-2844.jpeg.jpg"
+    },
+    {
+      "Number": "198",
+      "Album": "The Best of Little Walter",
+      "Artist": "Little Walter",
+      "Year": "1967",
+      "Genre": "Blues",
+      "Subgenre": "Chicago Blues",
+      "Image": "https://img.discogs.com/ZGBZh35FtZ8E8-nKgMhz99WhlnE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3437964-1421102493-6066.jpeg.jpg"
+    },
+    {
+      "Number": "199",
+      "Album": "Is This It",
+      "Artist": "The Strokes",
+      "Year": "2001",
+      "Genre": "Rock",
+      "Subgenre": "Indie Rock",
+      "Image": "https://img.discogs.com/wVAE-n8vBbwv_iBssW-WoPnKMC4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-15556604-1594102056-4808.jpeg.jpg"
+    },
+    {
+      "Number": "200",
+      "Album": "Highway to Hell",
+      "Artist": "AC,DC",
+      "Year": "1979",
+      "Genre": "Rock",
+      "Subgenre": "Hard Rock",
+      "Image": "https://img.discogs.com/Lrx0-vTGMOV6Mxzf4JygXT5A10U=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-400587-1533834528-3133.jpeg.jpg"
+    },
+    {
+      "Number": "201",
+      "Album": "The Downward Spiral",
+      "Artist": "Nine Inch Nails",
+      "Year": "1994",
+      "Genre": "Electronic, Rock",
+      "Subgenre": "Industrial",
+      "Image": "https://img.discogs.com/FLmBFwbF3ZbI-IHln82zrzMrRvc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8851865-1470109077-8219.jpeg.jpg"
+    },
+    {
+      "Number": "202",
+      "Album": "Parsley, Sage, Rosemary and Thyme",
+      "Artist": "Simon & Garfunkel",
+      "Year": "1966",
+      "Genre": "Rock, Pop, Folk, World, & Country",
+      "Subgenre": "Folk Rock, Pop Rock",
+      "Image": "https://img.discogs.com/3BqI7I8mTdKGHPX0t2vYW717LwA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1836118-1589388791-5032.jpeg.jpg"
+    },
+    {
+      "Number": "203",
+      "Album": "Bad",
+      "Artist": "Michael Jackson",
+      "Year": "1987",
+      "Genre": "Funk , Soul, Pop",
+      "Subgenre": "Pop Rock, Ballad, Funk, Soul",
+      "Image": "https://img.discogs.com/StrWzhmrbwFwb0eDD4HF7BHonQg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-459606-1450389425-8852.jpeg.jpg"
+    },
+    {
+      "Number": "204",
+      "Album": "Modern Times",
+      "Artist": "Bob Dylan",
+      "Year": "2006",
+      "Genre": "Rock",
+      "Subgenre": "Blues Rock, Folk Rock",
+      "Image": "https://img.discogs.com/5mhOt-fbkGD9InAsprGHcjZg7XQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-769530-1530523014-6184.jpeg.jpg"
+    },
+    {
+      "Number": "205",
+      "Album": "Wheels of Fire",
+      "Artist": "Cream",
+      "Year": "1968",
+      "Genre": "Rock, Blues",
+      "Subgenre": "Blues Rock, Psychedelic Rock, Classic Rock",
+      "Image": "https://img.discogs.com/FJ6MtBfvK3U5_KqIwMcqY_AzCWo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2906892-1306677383.jpeg.jpg"
+    },
+    {
+      "Number": "206",
+      "Album": "Dirty Mind",
+      "Artist": "Prince",
+      "Year": "1980",
+      "Genre": "Funk , Soul",
+      "Subgenre": "None",
+      "Image": "https://img.discogs.com/II1OufkEQtCk6r__EtsNSAHTuco=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7690671-1446822344-3754.jpeg.jpg"
+    },
+    {
+      "Number": "207",
+      "Album": "Abraxas",
+      "Artist": "Santana",
+      "Year": "1970",
+      "Genre": "Rock, Latin",
+      "Subgenre": "Fusion, Hard Rock, Psychedelic Rock",
+      "Image": "https://img.discogs.com/HaFeTdzeYwzz5oV7kjHk1VGGKuU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6534046-1616261345-5414.jpeg.jpg"
+    },
+    {
+      "Number": "208",
+      "Album": "Tea for the Tillerman",
+      "Artist": "Cat Stevens",
+      "Year": "1970",
+      "Genre": "Rock, Stage & Screen",
+      "Subgenre": "Folk Rock, Pop Rock",
+      "Image": "https://img.discogs.com/Xp_wOzjMVBtCfBUAI1LLvSa5egE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-473873-1162814505.jpeg.jpg"
+    },
+    {
+      "Number": "209",
+      "Album": "Ten",
+      "Artist": "Pearl Jam",
+      "Year": "1991",
+      "Genre": "Rock",
+      "Subgenre": "Grunge",
+      "Image": "https://img.discogs.com/jPfb5V0LL6GXUNhilwvwg5lX59c=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-175395-1615753209-5320.jpeg.jpg"
+    },
+    {
+      "Number": "210",
+      "Album": "Everybody Knows This Is Nowhere",
+      "Artist": "Neil Young & Crazy Horse",
+      "Year": "1969",
+      "Genre": "Rock",
+      "Subgenre": "Folk Rock, Country Rock, Classic Rock",
+      "Image": "https://img.discogs.com/Bgrobx5IQPUtskLeiV35IGm72k8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1657174-1235574215.jpeg.jpg"
+    },
+    {
+      "Number": "211",
+      "Album": "Wish You Were Here",
+      "Artist": "Pink Floyd",
+      "Year": "1975",
+      "Genre": "Rock",
+      "Subgenre": "Classic Rock, Prog Rock",
+      "Image": "https://img.discogs.com/RsAndJixx1l8g01YI8qrMdr08LI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-463597-1560369536-8302.jpeg.jpg"
+    },
+    {
+      "Number": "212",
+      "Album": "Crooked Rain Crooked Rain",
+      "Artist": "Pavement",
+      "Year": "1994",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock, Indie Rock",
+      "Image": "https://img.discogs.com/sZvE0sSWcyw2FmyOoqRjo9o65hU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-379401-1248294358.jpeg.jpg"
+    },
+    {
+      "Number": "213",
+      "Album": "Tattoo You",
+      "Artist": "The Rolling Stones",
+      "Year": "1981",
+      "Genre": "Rock",
+      "Subgenre": "Classic Rock",
+      "Image": "https://img.discogs.com/qWaYX4SNQpdWky9cwCDhxOYl5Wk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1931909-1559219585-1890.jpeg.jpg"
+    },
+    {
+      "Number": "214",
+      "Album": "Proud Mary: The Best of Ike and Tina Turner",
+      "Artist": "Ike & Tina Turner",
+      "Year": "1991",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Rhythm & Blues, Bayou Funk, Soul",
+      "Image": "https://img.discogs.com/BI5mn4iY-Y0jkoK6KJV08XE1Zxc=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-238213-1152002160.jpeg.jpg"
+    },
+    {
+      "Number": "215",
+      "Album": "New York Dolls",
+      "Artist": "New York Dolls",
+      "Year": "1973",
+      "Genre": "Rock",
+      "Subgenre": "Glam",
+      "Image": "https://img.discogs.com/eZ1RAz5Z3BcZRM_BBJiyeN0Z_FY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7438216-1441570177-2027.jpeg.jpg"
+    },
+    {
+      "Number": "216",
+      "Album": "Bo Diddley , Go Bo Diddley",
+      "Artist": "Bo Diddley",
+      "Year": "1986",
+      "Genre": "Rock, Blues",
+      "Subgenre": "Rhythm & Blues, Rock & Roll",
+      "Image": "https://img.discogs.com/tdjlr5b3vk2nINSlYqji8CP7TLQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4796303-1381664821-4308.jpeg.jpg"
+    },
+    {
+      "Number": "217",
+      "Album": "Two Steps From the Blues",
+      "Artist": "Bobby \"Blue\" Bland",
+      "Year": "1961",
+      "Genre": "Funk , Soul, Blues",
+      "Subgenre": "Rhythm & Blues, Soul",
+      "Image": "https://img.discogs.com/Ux6keV8jv_BA7Izj4Ltr9p6mWi0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2328674-1590266247-1152.jpeg.jpg"
+    },
+    {
+      "Number": "218",
+      "Album": "The Queen Is Dead",
+      "Artist": "The Smiths",
+      "Year": "1986",
+      "Genre": "Rock, Pop",
+      "Subgenre": "Indie Rock",
+      "Image": "https://img.discogs.com/60UyFhL25IdjjFCrEet11t8tZms=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-494927-1230854023.jpeg.jpg"
+    },
+    {
+      "Number": "219",
+      "Album": "Licensed to Ill",
+      "Artist": "Beastie Boys",
+      "Year": "1986",
+      "Genre": "Hip Hop",
+      "Subgenre": "None",
+      "Image": "https://img.discogs.com/0QA1ATcim5qwDXaVdETHfIIFynU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5531755-1395920906-7292.jpeg.jpg"
+    },
+    {
+      "Number": "220",
+      "Album": "Look-Ka Py Py",
+      "Artist": "The Meters",
+      "Year": "1970",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Bayou Funk, Soul, Funk",
+      "Image": "https://img.discogs.com/pN6jn-mpzRkfvZCV_kDrN16uK2U=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-389034-1610977636-9090.jpeg.jpg"
+    },
+    {
+      "Number": "221",
+      "Album": "Loveless",
+      "Artist": "My Bloody Valentine",
+      "Year": "1991",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock, Shoegaze",
+      "Image": "https://img.discogs.com/n8r9KDgukY_W6gtEciel8YnJvg0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-127622-1250208679.jpeg.jpg"
+    },
+    {
+      "Number": "222",
+      "Album": "New Orleans Piano",
+      "Artist": "Professor Longhair",
+      "Year": "1972",
+      "Genre": "Funk , Soul, Blues",
+      "Subgenre": "Piano Blues",
+      "Image": "https://img.discogs.com/WgewvdUxGXKy8zr_cyYsqW4aJuo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2505256-1351868607-3058.jpeg.jpg"
+    },
+    {
+      "Number": "223",
+      "Album": "War",
+      "Artist": "U2",
+      "Year": "1983",
+      "Genre": "Rock",
+      "Subgenre": "Pop Rock",
+      "Image": "https://img.discogs.com/NM6TPiIolfllMeUrYkCFUyScFYk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-786161-1617378697-3405.jpeg.jpg"
+    },
+    {
+      "Number": "224",
+      "Album": "The Neil Diamond Collection",
+      "Artist": "Neil Diamond",
+      "Year": "1999",
+      "Genre": "Rock, Pop",
+      "Subgenre": "Soft Rock, Ballad",
+      "Image": "https://img.discogs.com/q-PilGxqWZViEY6htFzNbDT3--U=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2177697-1564457379-9416.jpeg.jpg"
+    },
+    {
+      "Number": "225",
+      "Album": "American Idiot",
+      "Artist": "Green Day",
+      "Year": "2004",
+      "Genre": "Rock",
+      "Subgenre": "Pop Rock, Punk",
+      "Image": "https://img.discogs.com/GnIEntgkDebHw4R7JTE7Z3d7GnY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-973706-1488163916-8517.jpeg.jpg"
+    },
+    {
+      "Number": "226",
+      "Album": "Nebraska",
+      "Artist": "Bruce Springsteen",
+      "Year": "1982",
+      "Genre": "Rock",
+      "Subgenre": "Acoustic",
+      "Image": "https://img.discogs.com/3rNOOpGvQEE1iBwtOZzosvuFMI4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-648676-1610104853-5669.jpeg.jpg"
+    },
+    {
+      "Number": "227",
+      "Album": "Doolittle",
+      "Artist": "Pixies",
+      "Year": "1989",
+      "Genre": "Rock",
+      "Subgenre": "Indie Rock",
+      "Image": "https://img.discogs.com/rweZV69LEkG1eVBmOPOgJ4f9SS0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2805906-1396136015-2237.jpeg.jpg"
+    },
+    {
+      "Number": "228",
+      "Album": "Paid in Full",
+      "Artist": "Eric B. & Rakim",
+      "Year": "1987",
+      "Genre": "Hip Hop",
+      "Subgenre": "None",
+      "Image": "https://img.discogs.com/j9qkfT-nYV1XYg7Q2iTybQErNQc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-53282-1203009189.jpeg.jpg"
+    },
+    {
+      "Number": "229",
+      "Album": "Toys in the Attic",
+      "Artist": "Aerosmith",
+      "Year": "1975",
+      "Genre": "Rock",
+      "Subgenre": "Hard Rock, Blues Rock",
+      "Image": "https://img.discogs.com/INOV7MmcFZi2q99-R0WWbfpVqR0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6790493-1588177249-3675.jpeg.jpg"
+    },
+    {
+      "Number": "230",
+      "Album": "Nick of Time",
+      "Artist": "Bonnie Raitt",
+      "Year": "1989",
+      "Genre": "Rock, Pop",
+      "Subgenre": "Blues Rock, Pop Rock",
+      "Image": "https://img.discogs.com/UI3z4plD_e0y9cHLWyvqrXsefrw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2985174-1376885119-2504.jpeg.jpg"
+    },
+    {
+      "Number": "231",
+      "Album": "A Night at the Opera",
+      "Artist": "Queen",
+      "Year": "1975",
+      "Genre": "Rock",
+      "Subgenre": "Hard Rock, Pop Rock, Prog Rock",
+      "Image": "https://img.discogs.com/sts7ttF8jBH_x5D-T6V9DKf0Ytc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-612780-1541367145-2127.jpeg.jpg"
+    },
+    {
+      "Number": "232",
+      "Album": "The Kink Kronikles",
+      "Artist": "The Kinks",
+      "Year": "1972",
+      "Genre": "Rock",
+      "Subgenre": "Rock & Roll, Pop Rock",
+      "Image": "https://img.discogs.com/vXJFNtCsCv_jmQGfGEZvDGVN5rE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4893112-1378672932-8646.jpeg.jpg"
+    },
+    {
+      "Number": "233",
+      "Album": "Mr. Tambourine Man",
+      "Artist": "The Byrds",
+      "Year": "1965",
+      "Genre": "Rock",
+      "Subgenre": "Folk Rock, Garage Rock, Pop Rock",
+      "Image": "https://img.discogs.com/Cv37tC0RI6GGrtVZLNANF03p2wc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1456636-1221103689.jpeg.jpg"
+    },
+    {
+      "Number": "234",
+      "Album": "Bookends",
+      "Artist": "Simon & Garfunkel",
+      "Year": "1968",
+      "Genre": "Rock",
+      "Subgenre": "Folk Rock, Classic Rock",
+      "Image": "https://img.discogs.com/dgETBCa3a15-yEWecgTNpJv2yPk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1247699-1463256104-5077.jpeg.jpg"
+    },
+    {
+      "Number": "235",
+      "Album": "The Ultimate Collection",
+      "Artist": "Patsy Cline",
+      "Year": "2000",
+      "Genre": "Folk, World, & Country",
+      "Subgenre": "None",
+      "Image": "https://img.discogs.com/sMoRUxrTSmJoL5jEWmUz1FCcOhM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3318385-1325538670.jpeg.jpg"
+    },
+    {
+      "Number": "236",
+      "Album": "Mr. Excitement!",
+      "Artist": "Jackie Wilson",
+      "Year": "1992",
+      "Genre": "Funk , Soul",
+      "Subgenre": "None",
+      "Image": "https://img.discogs.com/jup3PBJBVspRPz3T8IfW-PfHTOI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6841706-1437949103-2254.jpeg.jpg"
+    },
+    {
+      "Number": "237",
+      "Album": "My Generation",
+      "Artist": "The Who",
+      "Year": "1965",
+      "Genre": "Rock",
+      "Subgenre": "Mod",
+      "Image": "https://img.discogs.com/5nhzxbfw-zS5S1fISfx6W7b5cpw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-930764-1213964758.jpeg.jpg"
+    },
+    {
+      "Number": "238",
+      "Album": "Howlin' Wolf",
+      "Artist": "Howlin' Wolf",
+      "Year": "1962",
+      "Genre": "Blues",
+      "Subgenre": "None",
+      "Image": "https://img.discogs.com/XZhw8biO8dyLiItofAgXeq4KQWY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7697644-1446949931-6231.jpeg.jpg"
+    },
+    {
+      "Number": "239",
+      "Album": "Like a Prayer",
+      "Artist": "Madonna",
+      "Year": "1989",
+      "Genre": "Electronic, Pop",
+      "Subgenre": "Synth-pop",
+      "Image": "https://img.discogs.com/IAJFIlvjFNmnyG_mnllPOrHCSzo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-116237-1538315766-4634.jpeg.jpg"
+    },
+    {
+      "Number": "240",
+      "Album": "Can't Buy a Thrill",
+      "Artist": "Steely Dan",
+      "Year": "1972",
+      "Genre": "Rock",
+      "Subgenre": "Classic Rock",
+      "Image": "https://img.discogs.com/2tnKDLX9YnTNgHvWgwLkGyqTb_U=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3087067-1589290204-3603.jpeg.jpg"
+    },
+    {
+      "Number": "241",
+      "Album": "Let It Be",
+      "Artist": "The Replacements",
+      "Year": "1984",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock, Power Pop, Punk, Indie Rock",
+      "Image": "https://img.discogs.com/e90VlJ_USs1xZHLDGNHPCRDVWVw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-391888-1303510793.jpeg.jpg"
+    },
+    {
+      "Number": "242",
+      "Album": "Run D.M.C.",
+      "Artist": "Run D.M.C.",
+      "Year": "1984",
+      "Genre": "Hip Hop",
+      "Subgenre": "None",
+      "Image": "https://img.discogs.com/uTy0UVvWhW2TJpVcSQGfiYOj40E=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-230122-1300387851.jpeg.jpg"
+    },
+    {
+      "Number": "243",
+      "Album": "Black Sabbath",
+      "Artist": "Black Sabbath",
+      "Year": "1970",
+      "Genre": "Rock",
+      "Subgenre": "Blues Rock, Heavy Metal",
+      "Image": "https://img.discogs.com/OHqdxSrmOBLK-l8QHv4aiIeiIao=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-462466-1464284643-3601.jpeg.jpg"
+    },
+    {
+      "Number": "244",
+      "Album": "The Marshall Mathers LP",
+      "Artist": "Eminem",
+      "Year": "2000",
+      "Genre": "Hip Hop",
+      "Subgenre": "Pop Rap, Hardcore Hip-Hop, Horrorcore",
+      "Image": "https://img.discogs.com/Fk9OrT0xfPngVhH71Ra_3ZlpPLc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-223754-1638217004-4565.jpeg.jpg"
+    },
+    {
+      "Number": "245",
+      "Album": "All Killer No Filler! The Jerry Lee Lewis Anthology",
+      "Artist": "Jerry Lee Lewis",
+      "Year": "1993",
+      "Genre": "Rock, Blues, Folk, World, & Country",
+      "Subgenre": "Country Blues, Rock & Roll, Rhythm & Blues",
+      "Image": "https://img.discogs.com/iqSFgEjmLc7Pi-PYZ6BuymtZjUI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2749173-1601938779-8324.jpeg.jpg"
+    },
+    {
+      "Number": "246",
+      "Album": "Freak Out!",
+      "Artist": "The Mothers of Invention",
+      "Year": "1966",
+      "Genre": "Electronic, Rock",
+      "Subgenre": "Musique Concrete, Avantgarde, Symphonic Rock, Rhythm & Blues, Psychedelic Rock, Experimental, Parody",
+      "Image": "https://img.discogs.com/XZFDRMqcLzd0kuHhiFVFuhBHq78=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-538636-1435321700-7614.jpeg.jpg"
+    },
+    {
+      "Number": "247",
+      "Album": "Live,Dead",
+      "Artist": "The Grateful Dead",
+      "Year": "1969",
+      "Genre": "Rock",
+      "Subgenre": "Folk Rock, Country Rock, Psychedelic Rock, Experimental",
+      "Image": "https://img.discogs.com/T69PfZzG3mz-X88Rx_6qCF9_xBs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1150844-1587371603-1694.jpeg.jpg"
+    },
+    {
+      "Number": "248",
+      "Album": "The Shape of Jazz to Come",
+      "Artist": "Ornette Coleman",
+      "Year": "1959",
+      "Genre": "Jazz",
+      "Subgenre": "Free Jazz",
+      "Image": "https://img.discogs.com/kjmWboOPI5FMbjj_fauWV8PB5KY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-488973-1537684103-9468.jpeg.jpg"
+    },
+    {
+      "Number": "249",
+      "Album": "Automatic for the People",
+      "Artist": "R.E.M.",
+      "Year": "1992",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock",
+      "Image": "https://img.discogs.com/N8hsq2FI27ayjAY4YwZ11UnHQZo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8071425-1454593567-4874.jpeg.jpg"
+    },
+    {
+      "Number": "250",
+      "Album": "Reasonable Doubt",
+      "Artist": "Jay Z",
+      "Year": "1996",
+      "Genre": "Hip Hop",
+      "Subgenre": "None",
+      "Image": "https://img.discogs.com/LkwajThYo4VWFaWFOyG2uVJPj8I=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-227021-1504706218-9626.jpeg.jpg"
+    },
+    {
+      "Number": "251",
+      "Album": "Low",
+      "Artist": "David Bowie",
+      "Year": "1977",
+      "Genre": "Electronic, Rock",
+      "Subgenre": "Art Rock, Ambient, Experimental",
+      "Image": "https://img.discogs.com/AsRIwm8dq334B7Y2p2By6lyBWe4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-216166-1275625649.jpeg.jpg"
+    },
+    {
+      "Number": "252",
+      "Album": "The Blueprint",
+      "Artist": "Jay Z",
+      "Year": "2001",
+      "Genre": "Hip Hop",
+      "Subgenre": "None",
+      "Image": "https://img.discogs.com/86H8E8Obf00gAaGbo7Mxos-B6YE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-856870-1638910221-2125.jpeg.jpg"
+    },
+    {
+      "Number": "253",
+      "Album": "The River",
+      "Artist": "Bruce Springsteen",
+      "Year": "1980",
+      "Genre": "Rock",
+      "Subgenre": "Folk Rock, Pop Rock, Classic Rock",
+      "Image": "https://img.discogs.com/N75ej08c3AOTEINwtBFAQ6u4KqI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1637493-1495375836-7079.jpeg.jpg"
+    },
+    {
+      "Number": "254",
+      "Album": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
+      "Artist": "Otis Redding",
+      "Year": "1966",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Soul",
+      "Image": "https://img.discogs.com/W0QPE9g4LXi5hqn1yTYB410B17c=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2537596-1562417983-2046.jpeg.jpg"
+    },
+    {
+      "Number": "255",
+      "Album": "Metallica \"The Black Album\"",
+      "Artist": "Metallica",
+      "Year": "1991",
+      "Genre": "Rock",
+      "Subgenre": "Heavy Metal",
+      "Image": "https://img.discogs.com/b5dvryVzzYIp6448Qsh7iNBQkaA=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-18839-1555854164-2387.jpeg.jpg"
+    },
+    {
+      "Number": "256",
+      "Album": "Trans Europa Express",
+      "Artist": "Kraftwerk",
+      "Year": "1977",
+      "Genre": "Electronic",
+      "Subgenre": "Electro",
+      "Image": "https://img.discogs.com/c_eqe-ySOcvk-Boct2kSNmM41GM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-75547-1580075275-7157.jpeg.jpg"
+    },
+    {
+      "Number": "257",
+      "Album": "Whitney Houston",
+      "Artist": "Whitney Houston",
+      "Year": "1985",
+      "Genre": "Funk , Soul, Pop",
+      "Subgenre": "Synth-pop, Rhythm & Blues",
+      "Image": "https://img.discogs.com/uN-kDtjZwJF5CX3ph0cUnPikHv0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6981271-1513569493-5661.jpeg.jpg"
+    },
+    {
+      "Number": "258",
+      "Album": "The Kinks Are The Village Green Preservation Society",
+      "Artist": "The Kinks",
+      "Year": "1968",
+      "Genre": "Rock",
+      "Subgenre": "Psychedelic Rock, Pop Rock",
+      "Image": "https://img.discogs.com/4hXdzqB0c1uxpNl3fsWh45rwy_M=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2022062-1398778499-2194.jpeg.jpg"
+    },
+    {
+      "Number": "259",
+      "Album": "The Velvet Rope",
+      "Artist": "Janet",
+      "Year": "1997",
+      "Genre": "Electronic, Funk , Soul, Pop",
+      "Subgenre": "R&B,Swing, Downtempo",
+      "Image": "https://img.discogs.com/RgF1REA4-XrwU_o-Dxd5WN0iQvs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-427092-1283229493.jpeg.jpg"
+    },
+    {
+      "Number": "260",
+      "Album": "Stardust",
+      "Artist": "Willie Nelson",
+      "Year": "1978",
+      "Genre": "Pop, Folk, World, & Country",
+      "Subgenre": "Vocal",
+      "Image": "https://img.discogs.com/SbRFHwq9yIFrySL92wZb1le7_zI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-626367-1315160375.jpeg.jpg"
+    },
+    {
+      "Number": "261",
+      "Album": "American Beauty",
+      "Artist": "Grateful Dead",
+      "Year": "1970",
+      "Genre": "Rock",
+      "Subgenre": "Folk Rock",
+      "Image": "https://img.discogs.com/HFyfogB1kl1hzw443mNpJlzwQPk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-681945-1199403323.jpeg.jpg"
+    },
+    {
+      "Number": "262",
+      "Album": "Crosby, Stills & Nash",
+      "Artist": "Crosby, Stills & Nash",
+      "Year": "1969",
+      "Genre": "Rock, Folk, World, & Country",
+      "Subgenre": "Folk Rock, Classic Rock",
+      "Image": "https://img.discogs.com/fopEcmn7FVP7fHjXg0DnUQLALk0=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-236968-1581071113-9714.jpeg.jpg"
+    },
+    {
+      "Number": "263",
+      "Album": "Tracy Chapman",
+      "Artist": "Tracy Chapman",
+      "Year": "1988",
+      "Genre": "Rock",
+      "Subgenre": "None",
+      "Image": "https://img.discogs.com/pnxlsS6U5MerfqHyGL0rNJ0GePU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-761153-1307687791.jpeg.jpg"
+    },
+    {
+      "Number": "264",
+      "Album": "Workingman's Dead",
+      "Artist": "Grateful Dead",
+      "Year": "1970",
+      "Genre": "Rock",
+      "Subgenre": "Folk Rock, Country Rock, Classic Rock",
+      "Image": "https://img.discogs.com/uKL5ABggjQRy0bVTkaLpTC2NHzo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8684811-1469117715-3190.jpeg.jpg"
+    },
+    {
+      "Number": "265",
+      "Album": "The Genius of Ray Charles",
+      "Artist": "Ray Charles",
+      "Year": "1959",
+      "Genre": "Jazz, Pop",
+      "Subgenre": "Soul-Jazz, Big Band",
+      "Image": "https://img.discogs.com/jITGpSU2XinzqXyRhKEPt-S7D1g=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3454564-1331009571.jpeg.jpg"
+    },
+    {
+      "Number": "266",
+      "Album": "Child Is Father to the Man",
+      "Artist": "Blood, Sweat & Tears",
+      "Year": "1968",
+      "Genre": "Rock",
+      "Subgenre": "Blues Rock, Jazz-Rock, Classic Rock",
+      "Image": "https://img.discogs.com/8VBZTjDoEhcT-Oasy2aHHaGFp5c=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1431998-1221024602.jpeg.jpg"
+    },
+    {
+      "Number": "267",
+      "Album": "Quadrophenia",
+      "Artist": "The Who",
+      "Year": "1973",
+      "Genre": "Rock",
+      "Subgenre": "Hard Rock, Classic Rock, Mod",
+      "Image": "https://img.discogs.com/kJzvdSk8zlXTu0qtV32H3kSeFh0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1065082-1301129991.jpeg.jpg"
+    },
+    {
+      "Number": "268",
+      "Album": "Paul Simon",
+      "Artist": "Paul Simon",
+      "Year": "1972",
+      "Genre": "Rock",
+      "Subgenre": "Folk Rock, Pop Rock",
+      "Image": "https://img.discogs.com/dgETBCa3a15-yEWecgTNpJv2yPk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1247699-1463256104-5077.jpeg.jpg"
+    },
+    {
+      "Number": "269",
+      "Album": "Psychocandy",
+      "Artist": "The Jesus and Mary Chain",
+      "Year": "1985",
+      "Genre": "Rock",
+      "Subgenre": "Noise",
+      "Image": "https://img.discogs.com/uGODmvsdNAWmidm5OGHDI43jKOc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-369883-1594750551-4786.jpeg.jpg"
+    },
+    {
+      "Number": "270",
+      "Album": "Some Girls",
+      "Artist": "The Rolling Stones",
+      "Year": "1978",
+      "Genre": "Rock",
+      "Subgenre": "Blues Rock, Rock & Roll, Classic Rock, Disco",
+      "Image": "https://img.discogs.com/4ekHZw_W1RYAyoDXRBKlyqnRY2g=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3030024-1432304238-1421.jpeg.jpg"
+    },
+    {
+      "Number": "271",
+      "Album": "The Beach Boys Today!",
+      "Artist": "The Beach Boys",
+      "Year": "1965",
+      "Genre": "Rock",
+      "Subgenre": "Pop Rock, Psychedelic Rock",
+      "Image": "https://img.discogs.com/gSr-K4YSTm8mts0YW0FPDfVO3rw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-869037-1311191110.jpeg.jpg"
+    },
+    {
+      "Number": "272",
+      "Album": "Dig Me Out",
+      "Artist": "Sleater Kinney",
+      "Year": "1997",
+      "Genre": "Rock",
+      "Subgenre": "Indie Rock",
+      "Image": "https://img.discogs.com/W42fEy_J_LOPBKBi7_-dWSdpSy0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-462359-1250821088.jpeg.jpg"
+    },
+    {
+      "Number": "273",
+      "Album": "Going to a Go-Go",
+      "Artist": "Smokey Robinson & The Miracles",
+      "Year": "1966",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Soul",
+      "Image": "https://img.discogs.com/IVbz-i4TTRLK8DDJXNr1eEqn9yI=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-86094-1619251146-3687.jpeg.jpg"
+    },
+    {
+      "Number": "274",
+      "Album": "Nightbirds",
+      "Artist": "LaBelle",
+      "Year": "1974",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Funk, Disco",
+      "Image": "https://img.discogs.com/mYnCIu1Z8cW0ANMq2UGXSqujxRs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-19938169-1629529395-4187.jpeg.jpg"
+    },
+    {
+      "Number": "275",
+      "Album": "The Slim Shady LP",
+      "Artist": "Eminem",
+      "Year": "1999",
+      "Genre": "Hip Hop",
+      "Subgenre": "None",
+      "Image": "https://img.discogs.com/4KEh1h389ahgz8t98uTKjt10mK4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-186451-1283620752.jpeg.jpg"
+    },
+    {
+      "Number": "276",
+      "Album": "Mothership Connection",
+      "Artist": "Parliament",
+      "Year": "1975",
+      "Genre": "Funk , Soul",
+      "Subgenre": "P.Funk, Funk",
+      "Image": "https://img.discogs.com/TkXbEeg4RWHZTrC76ba2maF3bTc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3000728-1311119353.jpeg.jpg"
+    },
+    {
+      "Number": "277",
+      "Album": "Rhythm Nation 1814",
+      "Artist": "Janet Jackson",
+      "Year": "1989",
+      "Genre": "Electronic, Hip Hop, Pop",
+      "Subgenre": "R&B,Swing, Downtempo, Synth-pop",
+      "Image": "https://img.discogs.com/2ilfh_pNkBUNS6XY7xMB-opIzbk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6303997-1416023953-8592.jpeg.jpg"
+    },
+    {
+      "Number": "278",
+      "Album": "Anthology of American Folk Music",
+      "Artist": "Various",
+      "Year": "1997",
+      "Genre": "Blues, Folk, World, & Country",
+      "Subgenre": "Cajun, Country, Field Recording, Gospel, Delta Blues, Folk",
+      "Image": "https://img.discogs.com/WknHDKmh1J2UIIeikNPq-AnMPgk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-652964-1329594799.jpeg.jpg"
+    },
+    {
+      "Number": "279",
+      "Album": "Aladdin Sane",
+      "Artist": "David Bowie",
+      "Year": "1973",
+      "Genre": "Rock",
+      "Subgenre": "Glam",
+      "Image": "https://img.discogs.com/Vy06IIQhAzC7OflsePlw9UHXGZc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-354906-1412775755-4012.jpeg.jpg"
+    },
+    {
+      "Number": "280",
+      "Album": "All That You Can't Leave Behind",
+      "Artist": "U2",
+      "Year": "2000",
+      "Genre": "Rock",
+      "Subgenre": "Pop Rock",
+      "Image": "https://img.discogs.com/zxx-xXU8DgKiqC40Jx_J5R8WCUM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-374348-1225454808.jpeg.jpg"
+    },
+    {
+      "Number": "281",
+      "Album": "My Life",
+      "Artist": "Mary J. Blige",
+      "Year": "1994",
+      "Genre": "Hip Hop",
+      "Subgenre": "R&B,Swing",
+      "Image": "https://img.discogs.com/pObYqmOKuvrOF5do6ETZbYk4aaA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1827293-1296122551.jpeg.jpg"
+    },
+    {
+      "Number": "282",
+      "Album": "Folk Singer",
+      "Artist": "Muddy Waters",
+      "Year": "1964",
+      "Genre": "Blues",
+      "Subgenre": "Delta Blues",
+      "Image": "https://img.discogs.com/d_HK0bKJ4tNWlU77XTaiNlKXcx0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4487456-1385477317-2414.jpeg.jpg"
+    },
+    {
+      "Number": "283",
+      "Album": "Can't Get Enough",
+      "Artist": "Barry White",
+      "Year": "1974",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Soul, Disco",
+      "Image": "https://img.discogs.com/0OwRSRmc5vdzOK_F2is13ZngWX4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-863997-1399911589-8778.jpeg.jpg"
+    },
+    {
+      "Number": "284",
+      "Album": "The Cars",
+      "Artist": "The Cars",
+      "Year": "1978",
+      "Genre": "Electronic, Rock",
+      "Subgenre": "New Wave, Pop Rock, Synth-pop",
+      "Image": "https://img.discogs.com/XJaL2HP-FVkYyrvtRZT6pOk8koU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-190219-1319054863.jpeg.jpg"
+    },
+    {
+      "Number": "285",
+      "Album": "Music of My Mind",
+      "Artist": "Stevie Wonder",
+      "Year": "1972",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Soul-Jazz, Soul",
+      "Image": "https://img.discogs.com/kNutFvS4TnX5msoVvi0dSHfJxKw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-638885-1261224432.jpeg.jpg"
+    },
+    {
+      "Number": "286",
+      "Album": "I'm Still in Love With You",
+      "Artist": "Al Green",
+      "Year": "1972",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Rhythm & Blues, Soul",
+      "Image": "https://img.discogs.com/op9S6wuDYGaKQNPiyGi2ya-OS7c=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-551010-1295560135.jpeg.jpg"
+    },
+    {
+      "Number": "287",
+      "Album": "Los Angeles",
+      "Artist": "X",
+      "Year": "1980",
+      "Genre": "Rock",
+      "Subgenre": "Punk, Rock & Roll",
+      "Image": "https://img.discogs.com/sdTJvEASBmFECzfrypCF9D3mWY4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-458505-1381950347-1001.jpeg.jpg"
+    },
+    {
+      "Number": "288",
+      "Album": "Anthem of the Sun",
+      "Artist": "Grateful Dead",
+      "Year": "1968",
+      "Genre": "Rock",
+      "Subgenre": "Psychedelic Rock",
+      "Image": "https://img.discogs.com/ncGqB-pPZVzOorwzC9Fmcseio8s=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4044231-1583093757-8816.jpeg.jpg"
+    },
+    {
+      "Number": "289",
+      "Album": "Something Else by The Kinks",
+      "Artist": "The Kinks",
+      "Year": "1967",
+      "Genre": "Rock",
+      "Subgenre": "Pop Rock, Psychedelic Rock, Mod",
+      "Image": "https://img.discogs.com/TZe35tOiTeVqvFJFI8ioYDo7CTQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-599121-1551283238-2998.jpeg.jpg"
+    },
+    {
+      "Number": "290",
+      "Album": "Call Me",
+      "Artist": "Al Green",
+      "Year": "1973",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Rhythm & Blues, Soul",
+      "Image": "https://img.discogs.com/TgzMCUPH62UbFYpZ0YPcWmZJQrE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-551002-1508381456-6521.png.jpg"
+    },
+    {
+      "Number": "291",
+      "Album": "Talking Heads: 77",
+      "Artist": "Talking Heads",
+      "Year": "1977",
+      "Genre": "Rock",
+      "Subgenre": "New Wave",
+      "Image": "https://img.discogs.com/ucDq7sJoWv1THK3t3oHppIuJnFg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-192870-1209765498.jpeg.jpg"
+    },
+    {
+      "Number": "292",
+      "Album": "The Basement Tapes",
+      "Artist": "Bob Dylan and the Band",
+      "Year": "1975",
+      "Genre": "Rock",
+      "Subgenre": "Folk Rock, Country Rock, Classic Rock",
+      "Image": "https://img.discogs.com/GNjtijQR1uqLfLN6wHs2huUaQj8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2012979-1258510467.jpeg.jpg"
+    },
+    {
+      "Number": "293",
+      "Album": "White Light,White Heat",
+      "Artist": "The Velvet Underground",
+      "Year": "1968",
+      "Genre": "Rock",
+      "Subgenre": "Avantgarde, Experimental",
+      "Image": "https://img.discogs.com/gNl65oG0P53BSzCQ5VrrdwFMWoA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-372030-1589295354-7677.jpeg.jpg"
+    },
+    {
+      "Number": "294",
+      "Album": "Kick Out the Jams",
+      "Artist": "MC5",
+      "Year": "1969",
+      "Genre": "Rock",
+      "Subgenre": "Garage Rock, Hard Rock, Punk, Blues Rock",
+      "Image": "https://img.discogs.com/PhOvTZSFEI9cMQuoxrC7SijPvkI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6354742-1481975351-3518.jpeg.jpg"
+    },
+    {
+      "Number": "295",
+      "Album": "Songs of Love and Hate",
+      "Artist": "Leonard Cohen",
+      "Year": "1970",
+      "Genre": "Folk, World, & Country",
+      "Subgenre": "Folk Rock, Folk, Ballad",
+      "Image": "https://img.discogs.com/VQIlAbRAmXLB-rLf4FQS7simnu0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-483725-1124699640.jpg.jpg"
+    },
+    {
+      "Number": "296",
+      "Album": "Meat Is Murder",
+      "Artist": "The Smiths",
+      "Year": "1985",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock, Indie Rock",
+      "Image": "https://img.discogs.com/DUTOImMn16DwvKkXleePyZ7QOR8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-373240-1189712644.jpeg.jpg"
+    },
+    {
+      "Number": "297",
+      "Album": "We're Only in It for the Money",
+      "Artist": "The Mothers of Invention",
+      "Year": "1968",
+      "Genre": "Electronic, Rock",
+      "Subgenre": "Modern Classical, Avantgarde, Psychedelic Rock, Experimental, Parody",
+      "Image": "https://img.discogs.com/3DWuy65htrZi40BJGlpCvgD0d_Q=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-431258-1555180605-3633.jpeg.jpg"
+    },
+    {
+      "Number": "298",
+      "Album": "The College Dropout",
+      "Artist": "Kanye West",
+      "Year": "2003",
+      "Genre": "Hip Hop",
+      "Subgenre": "Pop Rap, Conscious, Contemporary R&B",
+      "Image": "https://img.discogs.com/mlzlStd7qbzMsnUGe6ILtdiHWF8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-233445-1584479472-5671.jpeg.jpg"
+    },
+    {
+      "Number": "299",
+      "Album": "Weezer (Blue Album)",
+      "Artist": "Weezer",
+      "Year": "1994",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock, Emo",
+      "Image": "https://img.discogs.com/pQTbqSb2WQHRntvR5bVn2hI7Iuw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-368184-1384978619-8293.jpeg.jpg"
+    },
+    {
+      "Number": "300",
+      "Album": "Master of Reality",
+      "Artist": "Black Sabbath",
+      "Year": "1971",
+      "Genre": "Rock",
+      "Subgenre": "Hard Rock, Heavy Metal",
+      "Image": "https://img.discogs.com/GgETKlWM4y1I0C1X9hM4UB5bNNc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-590773-1330568156.jpeg.jpg"
+    },
+    {
+      "Number": "301",
+      "Album": "Coat of Many Colors",
+      "Artist": "Dolly Parton",
+      "Year": "1971",
+      "Genre": "Folk, World, & Country",
+      "Subgenre": "Country",
+      "Image": "https://img.discogs.com/YumsI2gdrnyl-wTQUMxObs3BEVY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3022079-1380481250-7043.jpeg.jpg"
+    },
+    {
+      "Number": "302",
+      "Album": "Fear of a Black Planet",
+      "Artist": "Public Enemy",
+      "Year": "1990",
+      "Genre": "Hip Hop",
+      "Subgenre": "Conscious",
+      "Image": "https://img.discogs.com/tiSgKQXy1z7IH8tGaQBiX0g5BnY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-78957-1206530921.jpeg.jpg"
+    },
+    {
+      "Number": "303",
+      "Album": "John Wesley Harding",
+      "Artist": "Bob Dylan",
+      "Year": "1967",
+      "Genre": "Rock",
+      "Subgenre": "Folk Rock, Country Rock",
+      "Image": "https://img.discogs.com/C70RydpsqWnWDjKkrCxPAJU_V7Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5375007-1588159147-5113.jpeg.jpg"
+    },
+    {
+      "Number": "304",
+      "Album": "Grace",
+      "Artist": "Jeff Buckley",
+      "Year": "1994",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock, Folk Rock",
+      "Image": "https://img.discogs.com/SUtap-dlvy7bw4F9YJddDi8OBa8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-378673-1355331945-6071.jpeg.jpg"
+    },
+    {
+      "Number": "305",
+      "Album": "Car Wheels on a Gravel Road",
+      "Artist": "Lucinda Williams",
+      "Year": "1998",
+      "Genre": "Folk, World, & Country",
+      "Subgenre": "Country, Folk",
+      "Image": "https://img.discogs.com/5l9wv1cQyT13982l7TsVXR62V50=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1484789-1265773290.jpeg.jpg"
+    },
+    {
+      "Number": "306",
+      "Album": "Odelay",
+      "Artist": "Beck",
+      "Year": "1996",
+      "Genre": "Electronic, Hip Hop, Funk , Soul, Pop",
+      "Subgenre": "Electro, Downtempo, Hip Hop, Disco, Afrobeat, Abstract",
+      "Image": "https://img.discogs.com/rJU7nW452jFy-fwCh-ggVTewxe4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9168171-1476734078-8475.jpeg.jpg"
+    },
+    {
+      "Number": "307",
+      "Album": "A Hard Day's Night",
+      "Artist": "The Beatles",
+      "Year": "1964",
+      "Genre": "Rock, Stage & Screen",
+      "Subgenre": "Soundtrack, Beat, Pop Rock",
+      "Image": "https://img.discogs.com/RoWMe8fneYEE0T24gnT48u0m52M=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4953644-1391695856-1514.jpeg.jpg"
+    },
+    {
+      "Number": "308",
+      "Album": "Songs for Swingin' Lovers!",
+      "Artist": "Frank Sinatra",
+      "Year": "1956",
+      "Genre": "Jazz, Pop",
+      "Subgenre": "Vocal, Easy Listening",
+      "Image": "https://img.discogs.com/j-8hKrPr7YJFRvtB2aI7xeEZqNI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2018290-1478425910-6596.jpeg.jpg"
+    },
+    {
+      "Number": "309",
+      "Album": "Willy and the Poor Boys",
+      "Artist": "Creedence Clearwater Revival",
+      "Year": "1969",
+      "Genre": "Rock",
+      "Subgenre": "Blues Rock, Rock & Roll, Classic Rock",
+      "Image": "https://img.discogs.com/8llJotNSBOBvg0F18x5y2Zej34s=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1331703-1225636130.jpeg.jpg"
+    },
+    {
+      "Number": "310",
+      "Album": "Blood Sugar Sex Magik",
+      "Artist": "Red Hot Chili Peppers",
+      "Year": "1991",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock, Funk Metal",
+      "Image": "https://img.discogs.com/aq8g0t6scBCHMLP_20ckEFaY6p4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1119354-1539367025-8794.jpeg.jpg"
+    },
+    {
+      "Number": "311",
+      "Album": "The Sun Records Collection",
+      "Artist": "Various",
+      "Year": "1994",
+      "Genre": "Rock, Funk , Soul, Blues, Pop, Folk, World, & Country",
+      "Subgenre": "Country Blues, Rock & Roll, Rockabilly",
+      "Image": "https://img.discogs.com/nEbSgHhHAV3SWWxquKCjNZqUf5U=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3804489-1438462267-1007.jpeg.jpg"
+    },
+    {
+      "Number": "312",
+      "Album": "Nothing's Shocking",
+      "Artist": "Jane's Addiction",
+      "Year": "1988",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock",
+      "Image": "https://img.discogs.com/8kAAbgKm3ad6I70yBwRv7LochQU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-532610-1138250241.jpeg.jpg"
+    },
+    {
+      "Number": "313",
+      "Album": "MTV Unplugged in New York",
+      "Artist": "Nirvana",
+      "Year": "1994",
+      "Genre": "Rock",
+      "Subgenre": "Folk Rock, Acoustic, Grunge",
+      "Image": "https://img.discogs.com/fIIHfYAol3Lq2S7eHqE98tDTCsY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1836201-1448835006-8516.jpeg.jpg"
+    },
+    {
+      "Number": "314",
+      "Album": "The Miseducation of Lauryn Hill",
+      "Artist": "Lauryn Hill",
+      "Year": "1998",
+      "Genre": "Hip Hop",
+      "Subgenre": "R&B,Swing, Conscious",
+      "Image": "https://img.discogs.com/sr2Hj92ce3n4ZOQM3PowstOyLzA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-227020-1301243535.jpeg.jpg"
+    },
+    {
+      "Number": "315",
+      "Album": "Damn the Torpedoes",
+      "Artist": "Tom Petty and the Heartbreakers",
+      "Year": "1979",
+      "Genre": "Rock",
+      "Subgenre": "Soft Rock, Hard Rock, Pop Rock",
+      "Image": "https://img.discogs.com/GB67mTMSZmiCvFMeWq6Qlcl8gRY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1024395-1319780626.jpeg.jpg"
+    },
+    {
+      "Number": "316",
+      "Album": "The Velvet Underground",
+      "Artist": "The Velvet Underground",
+      "Year": "1969",
+      "Genre": "Rock",
+      "Subgenre": "Garage Rock, Art Rock, Experimental",
+      "Image": "https://img.discogs.com/7x2fcrnkDXyYWMCKvHJk-CMl2jQ=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-39766-1620457330-8737.jpeg.jpg"
+    },
+    {
+      "Number": "317",
+      "Album": "Surfer Rosa",
+      "Artist": "Pixies",
+      "Year": "1988",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock",
+      "Image": "https://img.discogs.com/aaE3Lh2qH4s_qQpPfG_DuCQLG_c=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-371355-1252316823.jpeg.jpg"
+    },
+    {
+      "Number": "318",
+      "Album": "Back Stabbers",
+      "Artist": "The O'Jays",
+      "Year": "1972",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Soul",
+      "Image": "https://img.discogs.com/IdWVf9bJluAdfStCOVovQefGpi4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-436121-1554755077-8874.jpeg.jpg"
+    },
+    {
+      "Number": "319",
+      "Album": "Burnin'",
+      "Artist": "The Wailers",
+      "Year": "1973",
+      "Genre": "Reggae",
+      "Subgenre": "Reggae",
+      "Image": "https://img.discogs.com/78hal14IMe7vOhq6an4RX40jGp0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-550415-1460132203-1462.jpeg.jpg"
+    },
+    {
+      "Number": "320",
+      "Album": "Amnesiac",
+      "Artist": "Radiohead",
+      "Year": "2001",
+      "Genre": "Electronic, Rock",
+      "Subgenre": "Alternative Rock, Experimental",
+      "Image": "https://img.discogs.com/eTH6YC8TfNC05CYheRK66RbcVgI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-267133-1246917437.jpeg.jpg"
+    },
+    {
+      "Number": "321",
+      "Album": "Pink Moon",
+      "Artist": "Nick Drake",
+      "Year": "1972",
+      "Genre": "Rock, Folk, World, & Country",
+      "Subgenre": "Folk, Folk Rock, Acoustic",
+      "Image": "https://img.discogs.com/R_3ntQDYGV6VR-MVXO-NX7WioPU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1356775-1431958766-9654.jpeg.jpg"
+    },
+    {
+      "Number": "322",
+      "Album": "Sail Away",
+      "Artist": "Randy Newman",
+      "Year": "1972",
+      "Genre": "Rock, Pop",
+      "Subgenre": "None",
+      "Image": "https://img.discogs.com/CmKmjRIykdjmD6jkfqo9cp7gvkQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7555164-1529638383-4564.jpeg.jpg"
+    },
+    {
+      "Number": "323",
+      "Album": "Ghost in the Machine",
+      "Artist": "The Police",
+      "Year": "1981",
+      "Genre": "Rock, Pop",
+      "Subgenre": "Alternative Rock, New Wave, Pop Rock",
+      "Image": "https://img.discogs.com/-hAV0C621VK4xrnKdKaOnzopM0U=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1606397-1610544474-7841.jpeg.jpg"
+    },
+    {
+      "Number": "324",
+      "Album": "Station to Station",
+      "Artist": "David Bowie",
+      "Year": "1976",
+      "Genre": "Rock, Funk , Soul",
+      "Subgenre": "Classic Rock, Soul, Funk, Art Rock",
+      "Image": "https://img.discogs.com/-w6L4AKnFHNWZBFtY_8LYGPr9oY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4425540-1374431583-4982.jpeg.jpg"
+    },
+    {
+      "Number": "325",
+      "Album": "Slowhand",
+      "Artist": "Eric Clapton",
+      "Year": "1977",
+      "Genre": "Rock",
+      "Subgenre": "None",
+      "Image": "https://img.discogs.com/r4i4Xo_HbzSndjfr0U8fI_UquWA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-732881-1164028651.jpeg.jpg"
+    },
+    {
+      "Number": "326",
+      "Album": "Disintegration",
+      "Artist": "The Cure",
+      "Year": "1989",
+      "Genre": "Electronic, Rock",
+      "Subgenre": "New Wave, Alternative Rock",
+      "Image": "https://img.discogs.com/TCv1BeV8n1dncrEWAk4KDlj-dDE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-264583-1172426181.jpeg.jpg"
+    },
+    {
+      "Number": "327",
+      "Album": "Exile in Guyville",
+      "Artist": "Liz Phair",
+      "Year": "1993",
+      "Genre": "Rock",
+      "Subgenre": "Lo-Fi, Indie Rock",
+      "Image": "https://img.discogs.com/iegV8iJAUat-VKV0kvdHJcLdq4o=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-387600-1193765565.jpeg.jpg"
+    },
+    {
+      "Number": "328",
+      "Album": "Daydream Nation",
+      "Artist": "Sonic Youth",
+      "Year": "1988",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock, Indie Rock",
+      "Image": "https://img.discogs.com/RXSQ_reJf7238KC0vFfcH_ogOZc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1352572-1541977552-4962.jpeg.jpg"
+    },
+    {
+      "Number": "329",
+      "Album": "In the Jungle Groove",
+      "Artist": "James Brown",
+      "Year": "1986",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Soul, Funk",
+      "Image": "https://img.discogs.com/jBDH-_stz0XEDIxLS4aj7sTKG_k=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-606644-1234694512.jpeg.jpg"
+    },
+    {
+      "Number": "330",
+      "Album": "Tonight's the Night",
+      "Artist": "Neil Young",
+      "Year": "1975",
+      "Genre": "Rock",
+      "Subgenre": "Blues Rock, Folk Rock, Classic Rock",
+      "Image": "https://img.discogs.com/kl1jlC5dXF049dsFDX2n7CghQlE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1273539-1215200268.jpeg.jpg"
+    },
+    {
+      "Number": "331",
+      "Album": "Help!",
+      "Artist": "The Beatles",
+      "Year": "1965",
+      "Genre": "Rock, Stage & Screen",
+      "Subgenre": "Beat, Soundtrack, Pop Rock",
+      "Image": "https://img.discogs.com/m0JB3GUtKvc0XgeyUXOqb3baN3A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-735564-1622054964-1729.jpeg.jpg"
+    },
+    {
+      "Number": "332",
+      "Album": "Shoot Out the Lights",
+      "Artist": "Richard & Linda Thompson",
+      "Year": "1982",
+      "Genre": "Rock, Folk, World, & Country",
+      "Subgenre": "Folk Rock",
+      "Image": "https://img.discogs.com/VEk5uIX4Hq-ClTOVRK7_s_I7sQg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1005589-1413626931-1896.jpeg.jpg"
+    },
+    {
+      "Number": "333",
+      "Album": "Wild Gift",
+      "Artist": "X",
+      "Year": "1981",
+      "Genre": "Rock",
+      "Subgenre": "Rock & Roll, Punk",
+      "Image": "https://img.discogs.com/cXFDotyVL3OvuCU91NfyzpAkO2c=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-853977-1381952141-4447.jpeg.jpg"
+    },
+    {
+      "Number": "334",
+      "Album": "Squeezing Out Sparks",
+      "Artist": "Graham Parker & The Rumour",
+      "Year": "1979",
+      "Genre": "Rock, Blues",
+      "Subgenre": "None",
+      "Image": "https://img.discogs.com/unedRQL3ORZB_I3kB0uXN2mwDms=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-289622-1630842066-1218.jpeg.jpg"
+    },
+    {
+      "Number": "335",
+      "Album": "Superunknown",
+      "Artist": "Soundgarden",
+      "Year": "1994",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock",
+      "Image": "https://img.discogs.com/LC26ENDDVbon-Z78lqXH7TN91_o=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-409348-1150567266.jpeg.jpg"
+    },
+    {
+      "Number": "336",
+      "Album": "In Rainbows",
+      "Artist": "Radiohead",
+      "Year": "2007",
+      "Genre": "Electronic, Rock",
+      "Subgenre": "Alternative Rock, Art Rock",
+      "Image": "https://img.discogs.com/56vWHaCXZujmgenWrhHhGkdpm-g=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-3840-1462781416-2615.jpeg.jpg"
+    },
+    {
+      "Number": "337",
+      "Album": "Aqualung",
+      "Artist": "Jethro Tull",
+      "Year": "1971",
+      "Genre": "Rock",
+      "Subgenre": "Classic Rock, Prog Rock",
+      "Image": "https://img.discogs.com/GIxukl7wjhj371aPSAa3upoIt64=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-708318-1586624955-5477.jpeg.jpg"
+    },
+    {
+      "Number": "338",
+      "Album": "Cheap Thrills",
+      "Artist": "Big Brother & the Holding Company",
+      "Year": "1968",
+      "Genre": "Rock",
+      "Subgenre": "Folk Rock, Blues Rock, Psychedelic Rock",
+      "Image": "https://img.discogs.com/_AsIGWzOFVAaCUv-E1fzjxLwXbI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/L-34032-1192157404.jpeg.jpg"
+    },
+    {
+      "Number": "339",
+      "Album": "The Heart of Saturday Night",
+      "Artist": "Tom Waits",
+      "Year": "1974",
+      "Genre": "Jazz, Pop, Folk, World, & Country",
+      "Subgenre": "Contemporary Jazz, Spoken Word",
+      "Image": "https://img.discogs.com/BfpbeXWV1vY4VXha3sDunLzRnb8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13779806-1560954595-9687.png.jpg"
+    },
+    {
+      "Number": "340",
+      "Album": "Damaged",
+      "Artist": "Black Flag",
+      "Year": "1981",
+      "Genre": "Rock",
+      "Subgenre": "Hardcore, Punk",
+      "Image": "https://img.discogs.com/kp80wWlhZHPrkvTeIBd-IMXeSzg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-581152-1568041765-8786.jpeg.jpg"
+    },
+    {
+      "Number": "341",
+      "Album": "Play",
+      "Artist": "Moby",
+      "Year": "1999",
+      "Genre": "Electronic",
+      "Subgenre": "Breakbeat, Leftfield, Downtempo",
+      "Image": "https://img.discogs.com/9I31m3X2tb7Hux_Q73ri3vEFVeU=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-1031-1500201712-1208.jpeg.jpg"
+    },
+    {
+      "Number": "342",
+      "Album": "Violator",
+      "Artist": "Depeche Mode",
+      "Year": "1990",
+      "Genre": "Electronic",
+      "Subgenre": "Synth-pop",
+      "Image": "https://img.discogs.com/YSaarlojo8n_zoeK5FMtxxGYcho=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-2725-1476771285-8296.jpeg.jpg"
+    },
+    {
+      "Number": "343",
+      "Album": "Bat Out of Hell",
+      "Artist": "Meat Loaf",
+      "Year": "1977",
+      "Genre": "Rock",
+      "Subgenre": "Pop Rock",
+      "Image": "https://img.discogs.com/Uu25eTYcBdxgClHQtBMvCoI3lok=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11858130-1523809299-9011.jpeg.jpg"
+    },
+    {
+      "Number": "344",
+      "Album": "Berlin",
+      "Artist": "Lou Reed",
+      "Year": "1973",
+      "Genre": "Rock",
+      "Subgenre": "Hard Rock",
+      "Image": "https://img.discogs.com/7oZaOMiHQMuvuBKz-iZVh0oNpQY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-844527-1431709769-8514.jpeg.jpg"
+    },
+    {
+      "Number": "345",
+      "Album": "Stop Making Sense",
+      "Artist": "Talking Heads",
+      "Year": "1984",
+      "Genre": "Rock, Funk , Soul",
+      "Subgenre": "Funk, Indie Rock, New Wave",
+      "Image": "https://img.discogs.com/yESlmY-cz0LD0nUmdW7OwelfzeM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-266652-1573705261-3717.jpeg.jpg"
+    },
+    {
+      "Number": "346",
+      "Album": "3 Feet High and Rising",
+      "Artist": "De La Soul",
+      "Year": "1989",
+      "Genre": "Hip Hop",
+      "Subgenre": "None",
+      "Image": "https://img.discogs.com/q9wkRdo5s2mHSVLeRr44S7YFRQk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1005555-1248464166.jpeg.jpg"
+    },
+    {
+      "Number": "347",
+      "Album": "The Piper at the Gates of Dawn",
+      "Artist": "Pink Floyd",
+      "Year": "1967",
+      "Genre": "Rock",
+      "Subgenre": "Psychedelic Rock",
+      "Image": "https://img.discogs.com/aDWdDReaKvWCgLRszoYJwxRes_8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2901203-1607185949-1431.jpeg.jpg"
+    },
+    {
+      "Number": "348",
+      "Album": "Muddy Waters at Newport 1960",
+      "Artist": "Muddy Waters",
+      "Year": "1960",
+      "Genre": "Rock, Blues",
+      "Subgenre": "Blues Rock, Chicago Blues",
+      "Image": "https://img.discogs.com/CC3F7xKDFo6AGIt3Fag3HGKc1mI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5576730-1397145999-5528.jpeg.jpg"
+    },
+    {
+      "Number": "349",
+      "Album": "The Black Album",
+      "Artist": "Jay Z",
+      "Year": "2003",
+      "Genre": "Hip Hop",
+      "Subgenre": "None",
+      "Image": "https://img.discogs.com/P1djipd25iEEHoWfKspHoSNVHxg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-259432-1470409847-8596.png.jpg"
+    },
+    {
+      "Number": "350",
+      "Album": "Roger the Engineer",
+      "Artist": "The Yardbirds",
+      "Year": "1966",
+      "Genre": "Rock, Blues",
+      "Subgenre": "Blues Rock, Pop Rock",
+      "Image": "https://img.discogs.com/XGhdbwY-Tc5F02SCrgfEk_rRCQE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-15837037-1601656193-6996.jpeg.jpg"
+    },
+    {
+      "Number": "351",
+      "Album": "Rust Never Sleeps",
+      "Artist": "Neil Young & Crazy Horse",
+      "Year": "1979",
+      "Genre": "Rock",
+      "Subgenre": "Hard Rock, Arena Rock",
+      "Image": "https://img.discogs.com/Bgrobx5IQPUtskLeiV35IGm72k8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1657174-1235574215.jpeg.jpg"
+    },
+    {
+      "Number": "352",
+      "Album": "Brothers in Arms",
+      "Artist": "Dire Straits",
+      "Year": "1985",
+      "Genre": "Rock",
+      "Subgenre": "AOR, Classic Rock",
+      "Image": "https://img.discogs.com/K0uphN21jZXePkT8K4NHSm2T8UQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-382417-1576759900-7863.jpeg.jpg"
+    },
+    {
+      "Number": "353",
+      "Album": "My Beautiful Dark Twisted Fantasy",
+      "Artist": "Kanye West",
+      "Year": "2010",
+      "Genre": "Hip Hop",
+      "Subgenre": "None",
+      "Image": "https://img.discogs.com/-4Tw4i6wpwFBoZvyuhtmQB-tKho=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2606952-1584479562-1967.jpeg.jpg"
+    },
+    {
+      "Number": "354",
+      "Album": "52nd Street",
+      "Artist": "Billy Joel",
+      "Year": "1978",
+      "Genre": "Jazz, Rock, Pop",
+      "Subgenre": "Pop Rock, Ballad, Latin Jazz",
+      "Image": "https://img.discogs.com/EbwjcJ2a7e2Av0tMxhtCJ99quok=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7403788-1535913134-1915.jpeg.jpg"
+    },
+    {
+      "Number": "355",
+      "Album": "Having a Rave Up",
+      "Artist": "The Yardbirds",
+      "Year": "1965",
+      "Genre": "Rock",
+      "Subgenre": "Blues Rock, Psychedelic Rock",
+      "Image": "https://img.discogs.com/yx7fgW8YxO0UTdh_THaQKj2P4bU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-15307775-1589506252-8249.jpeg.jpg"
+    },
+    {
+      "Number": "356",
+      "Album": "12 Songs",
+      "Artist": "Randy Newman",
+      "Year": "1970",
+      "Genre": "Rock, Pop",
+      "Subgenre": "Pop Rock, Vocal",
+      "Image": "https://img.discogs.com/fmzEx7lKw2_f1qaO6yMPVlIHFvg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6381005-1417839908-1779.jpeg.jpg"
+    },
+    {
+      "Number": "357",
+      "Album": "Between the Buttons",
+      "Artist": "The Rolling Stones",
+      "Year": "1967",
+      "Genre": "Rock",
+      "Subgenre": "Blues Rock, Psychedelic Rock, Pop Rock",
+      "Image": "https://img.discogs.com/yq8Hjcomu3Gj2wdnQMpaCMjSTaQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-535592-1540835691-4957.jpeg.jpg"
+    },
+    {
+      "Number": "358",
+      "Album": "Sketches of Spain",
+      "Artist": "Miles Davis",
+      "Year": "1960",
+      "Genre": "Jazz",
+      "Subgenre": "Modal",
+      "Image": "https://img.discogs.com/NI-hG3thWiBGaVsoAV_L-CV17g4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1914353-1252138254.jpeg.jpg"
+    },
+    {
+      "Number": "359",
+      "Album": "Honky Chateau",
+      "Artist": "Elton John",
+      "Year": "1972",
+      "Genre": "Rock",
+      "Subgenre": "Pop Rock, Classic Rock",
+      "Image": "Error"
+    },
+    {
+      "Number": "360",
+      "Album": "Singles Going Steady",
+      "Artist": "Buzzcocks",
+      "Year": "1979",
+      "Genre": "Rock",
+      "Subgenre": "Punk",
+      "Image": "https://img.discogs.com/YSLR99lbhER4sorM7xyyGEjNbn0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-399662-1380775177-9773.jpeg.jpg"
+    },
+    {
+      "Number": "361",
+      "Album": "Stankonia",
+      "Artist": "OutKast",
+      "Year": "2000",
+      "Genre": "Hip Hop, Funk , Soul",
+      "Subgenre": "Gangsta, P.Funk, Crunk, Conscious",
+      "Image": "https://img.discogs.com/sT1B0JhskVFEZ66bY-10-Rrn1KU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-225181-1094445158.jpg.jpg"
+    },
+    {
+      "Number": "362",
+      "Album": "Siamese Dream",
+      "Artist": "The Smashing Pumpkins",
+      "Year": "1993",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock",
+      "Image": "https://img.discogs.com/FbFDexof9liW0hvOoizCu8vaV8g=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7086501-1433405772-2682.jpeg.jpg"
+    },
+    {
+      "Number": "363",
+      "Album": "Substance 1987",
+      "Artist": "New Order",
+      "Year": "1987",
+      "Genre": "Electronic",
+      "Subgenre": "Synth-pop",
+      "Image": "https://img.discogs.com/CT9vgxGzKcFgkzhFup4_lYEj1wU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-23662-1614154780-8540.jpeg.jpg"
+    },
+    {
+      "Number": "364",
+      "Album": "L.A. Woman",
+      "Artist": "The Doors",
+      "Year": "1971",
+      "Genre": "Rock",
+      "Subgenre": "Blues Rock, Classic Rock",
+      "Image": "https://img.discogs.com/01JvMR3V7XxUBVddFBE5ilRIbJs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-605307-1520961500-2707.jpeg.jpg"
+    },
+    {
+      "Number": "365",
+      "Album": "Rage Against the Machine",
+      "Artist": "Rage Against the Machine",
+      "Year": "1992",
+      "Genre": "Hip Hop, Rock",
+      "Subgenre": "Funk Metal",
+      "Image": "https://img.discogs.com/XvilP_Wy8RPlwuHyvW14IBW9vAU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-367339-1259236115.jpeg.jpg"
+    },
+    {
+      "Number": "366",
+      "Album": "American Recordings",
+      "Artist": "Johnny Cash",
+      "Year": "1994",
+      "Genre": "Folk, World, & Country",
+      "Subgenre": "Country, Gospel, Folk",
+      "Image": "https://img.discogs.com/5hNkad4kHDL9ur2PlFII92AdGLk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-696268-1531038626-8610.jpeg.jpg"
+    },
+    {
+      "Number": "367",
+      "Album": "Ray of Light",
+      "Artist": "Madonna",
+      "Year": "1998",
+      "Genre": "Electronic, Pop",
+      "Subgenre": "House, Techno, Downtempo, Vocal, Ambient",
+      "Image": "https://img.discogs.com/C7n_dKon2GQVoSpgEjQMXjg1wno=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-74027-1504296218-8697.jpeg.jpg"
+    },
+    {
+      "Number": "368",
+      "Album": "Eagles",
+      "Artist": "Eagles",
+      "Year": "1972",
+      "Genre": "Rock",
+      "Subgenre": "Country Rock, Classic Rock",
+      "Image": "https://img.discogs.com/ihmn3lNkpoRpKR9ghZ_236NvHvU=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-255680-1423878503-2804.jpeg.jpg"
+    },
+    {
+      "Number": "369",
+      "Album": "Louder Than Bombs",
+      "Artist": "The Smiths",
+      "Year": "1987",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock, Indie Rock",
+      "Image": "https://img.discogs.com/LF4_0yxhXXTwQHsxvDWsVpxMEQA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-451756-1203189616.jpeg.jpg"
+    },
+    {
+      "Number": "370",
+      "Album": "Mott",
+      "Artist": "Mott the Hoople",
+      "Year": "1973",
+      "Genre": "Rock",
+      "Subgenre": "Classic Rock",
+      "Image": "https://img.discogs.com/Fx4T4VDjmd5K67PBPrrA94_dVuY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10405669-1496784069-3618.jpeg.jpg"
+    },
+    {
+      "Number": "371",
+      "Album": "Whatever People Say I Am, That's What I'm Not",
+      "Artist": "Arctic Monkeys",
+      "Year": "2006",
+      "Genre": "Rock",
+      "Subgenre": "Indie Rock",
+      "Image": "https://img.discogs.com/Xvw4O7lgi62Ys43UvFU4zgS95GY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-612972-1401182963-7322.jpeg.jpg"
+    },
+    {
+      "Number": "372",
+      "Album": "Reggatta de Blanc",
+      "Artist": "The Police",
+      "Year": "1979",
+      "Genre": "Rock, Pop",
+      "Subgenre": "New Wave, Pop Rock",
+      "Image": "https://img.discogs.com/th7WPOfFyaeEdBILUQnyXPmuJfU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5829906-1420810650-6420.jpeg.jpg"
+    },
+    {
+      "Number": "373",
+      "Album": "Volunteers",
+      "Artist": "Jefferson Airplane",
+      "Year": "1969",
+      "Genre": "Rock",
+      "Subgenre": "Psychedelic Rock, Folk Rock, Country Rock, Honky Tonk",
+      "Image": "https://img.discogs.com/jRwVYXdQaIFdfflYETbhcOHaGrE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1305465-1241295201.jpeg.jpg"
+    },
+    {
+      "Number": "374",
+      "Album": "Siren",
+      "Artist": "Roxy Music",
+      "Year": "1975",
+      "Genre": "Rock",
+      "Subgenre": "Art Rock, Pop Rock, Glam",
+      "Image": "https://img.discogs.com/dYmwZq6ntS_GcT20JnA35H9zkG0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4101329-1455116400-6892.jpeg.jpg"
+    },
+    {
+      "Number": "375",
+      "Album": "Late for the Sky",
+      "Artist": "Jackson Browne",
+      "Year": "1974",
+      "Genre": "Rock",
+      "Subgenre": "Pop Rock",
+      "Image": "https://img.discogs.com/mZ8v-PJjI_6z5I-Xbp8fNvWlYc0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1450098-1245656850.jpeg.jpg"
+    },
+    {
+      "Number": "376",
+      "Album": "Post",
+      "Artist": "Bjork",
+      "Year": "1995",
+      "Genre": "Electronic",
+      "Subgenre": "Breakbeat, IDM, Electro",
+      "Image": "https://img.discogs.com/xrlLnv98ltBPNhIrLxcewgAK-uE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-102481-1232146782.jpeg.jpg"
+    },
+    {
+      "Number": "377",
+      "Album": "The Ultimate Collection: 1948-1990",
+      "Artist": "John Lee Hooker",
+      "Year": "1991",
+      "Genre": "Blues",
+      "Subgenre": "Country Blues, Electric Blues, Chicago Blues, Jump Blues",
+      "Image": "https://img.discogs.com/La2yF9e-bAH1rtVO5K4garX5nTE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2451323-1284788402.jpeg.jpg"
+    },
+    {
+      "Number": "378",
+      "Album": "What's the Story Morning Glory?",
+      "Artist": "Oasis",
+      "Year": "1995",
+      "Genre": "Rock, Pop",
+      "Subgenre": "Brit Pop",
+      "Image": "https://img.discogs.com/7cUxqGHaRBi0vZzAh-OvhBFpFMQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-371341-1262612300.jpeg.jpg"
+    },
+    {
+      "Number": "379",
+      "Album": "CrazySexyCool",
+      "Artist": "TLC",
+      "Year": "1994",
+      "Genre": "Electronic, Hip Hop, Funk , Soul",
+      "Subgenre": "R&B,Swing",
+      "Image": "https://img.discogs.com/Ae5zXXU_LD8_RQF8xRd4mvEnrjA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4883798-1489694623-6052.jpeg.jpg"
+    },
+    {
+      "Number": "380",
+      "Album": "Funky Kingston",
+      "Artist": "Toots & The Maytals",
+      "Year": "1973",
+      "Genre": "Reggae",
+      "Subgenre": "Reggae Gospel, Reggae, Roots Reggae, Rocksteady",
+      "Image": "https://img.discogs.com/DJNzChEBD-pNrfkr8A2HTainggk=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-386831-1619133876-9959.jpeg.jpg"
+    },
+    {
+      "Number": "381",
+      "Album": "The Smile Sessions",
+      "Artist": "The Beach Boys",
+      "Year": "2011",
+      "Genre": "Rock",
+      "Subgenre": "Pop Rock, Psychedelic Rock",
+      "Image": "https://img.discogs.com/QVxPnohavs1iRGUmlSeWhR4hUkM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3201704-1320274582.jpeg.jpg"
+    },
+    {
+      "Number": "382",
+      "Album": "The Modern Lovers",
+      "Artist": "The Modern Lovers",
+      "Year": "1976",
+      "Genre": "Rock",
+      "Subgenre": "Art Rock, Indie Rock",
+      "Image": "https://img.discogs.com/RPLvd1jzomgeZZ1vS1lKItJzD2M=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1169502-1197850475.jpeg.jpg"
+    },
+    {
+      "Number": "383",
+      "Album": "More Songs About Buildings and Food",
+      "Artist": "Talking Heads",
+      "Year": "1978",
+      "Genre": "Rock",
+      "Subgenre": "New Wave, Indie Rock",
+      "Image": "https://img.discogs.com/PqQAmKH2JK5oUNUKbSrwYvWzZd8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7027316-1431985010-7842.jpeg.jpg"
+    },
+    {
+      "Number": "384",
+      "Album": "A Quick One",
+      "Artist": "The Who",
+      "Year": "1966",
+      "Genre": "Rock",
+      "Subgenre": "Mod, Beat, Psychedelic Rock",
+      "Image": "https://img.discogs.com/fPoa4sHE3QrJB632ypcs9cIQemo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1899235-1453048125-4633.jpeg.jpg"
+    },
+    {
+      "Number": "385",
+      "Album": "\"Love and Theft\"",
+      "Artist": "Bob Dylan",
+      "Year": "2001",
+      "Genre": "Rock",
+      "Subgenre": "Folk Rock, Blues Rock",
+      "Image": "https://img.discogs.com/rWuxQ0wjrGeALPa0sMS0vglq_PQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-455342-1536239331-9768.jpeg.jpg"
+    },
+    {
+      "Number": "386",
+      "Album": "Pretzel Logic",
+      "Artist": "Steely Dan",
+      "Year": "1974",
+      "Genre": "Jazz, Rock",
+      "Subgenre": "Jazz-Rock, Pop Rock, Classic Rock",
+      "Image": "https://img.discogs.com/q4_IKjyH2edk627Wwh4zSbr6e1s=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-512366-1356970793-8400.jpeg.jpg"
+    },
+    {
+      "Number": "387",
+      "Album": "Enter the Wu_Tang: 36 Chambers",
+      "Artist": "Wu Tang Clan",
+      "Year": "1993",
+      "Genre": "Hip Hop",
+      "Subgenre": "Gangsta",
+      "Image": "https://img.discogs.com/cdPXYml9H22iqS9ba4QhQw-6Aiw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-153749-1185134135.jpeg.jpg"
+    },
+    {
+      "Number": "388",
+      "Album": "The Indestructible Beat of Soweto",
+      "Artist": "Various Artists",
+      "Year": "1985",
+      "Genre": "Funk , Soul, Folk, World, & Country",
+      "Subgenre": "African",
+      "Image": "https://img.discogs.com/EaeMqRxekvkn_3Y9ZvXc96rythc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2033168-1296568734.jpeg.jpg"
+    },
+    {
+      "Number": "389",
+      "Album": "The End of the Innocence",
+      "Artist": "Don Henley",
+      "Year": "1989",
+      "Genre": "Rock",
+      "Subgenre": "Pop Rock",
+      "Image": "https://img.discogs.com/mBG-XMVMrGD7VKjqHKzVqjSzCdA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1870255-1310130971.jpeg.jpg"
+    },
+    {
+      "Number": "390",
+      "Album": "Elephant",
+      "Artist": "The White Stripes",
+      "Year": "2003",
+      "Genre": "Rock",
+      "Subgenre": "Blues Rock, Garage Rock, Alternative Rock",
+      "Image": "https://img.discogs.com/c72cM78hIAL9IqVP1PCHzVFutuo=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-116345-1544755266-8160.jpeg.jpg"
+    },
+    {
+      "Number": "391",
+      "Album": "The Pretender",
+      "Artist": "Jackson Browne",
+      "Year": "1976",
+      "Genre": "Rock",
+      "Subgenre": "Soft Rock, Pop Rock",
+      "Image": "https://img.discogs.com/tSmzDT9bwOSH6vlOG1xJ9twP-7o=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4438336-1365224214-9836.jpeg.jpg"
+    },
+    {
+      "Number": "392",
+      "Album": "Let It Be",
+      "Artist": "The Beatles",
+      "Year": "1970",
+      "Genre": "Rock",
+      "Subgenre": "Pop Rock",
+      "Image": "https://img.discogs.com/M27V8pu5AiYsxuZrFieT5jgbDWQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1088126-1256950979.jpeg.jpg"
+    },
+    {
+      "Number": "393",
+      "Album": "Kala",
+      "Artist": "M.I.A.",
+      "Year": "2007",
+      "Genre": "Electronic, Hip Hop, Reggae, Pop",
+      "Subgenre": "Grime, Bollywood, Hip Hop, Dancehall",
+      "Image": "https://img.discogs.com/WZPrKe71iUQdLqFj2LVy9WyL2EE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1041774-1295304609.jpeg.jpg"
+    },
+    {
+      "Number": "394",
+      "Album": "Good Old Boys",
+      "Artist": "Randy Newman",
+      "Year": "1974",
+      "Genre": "Rock, Pop",
+      "Subgenre": "Pop Rock, Vocal",
+      "Image": "https://img.discogs.com/VyHvj0qiG6s51BnOrio8E-yasR8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7188727-1435713090-2388.jpeg.jpg"
+    },
+    {
+      "Number": "395",
+      "Album": "Sound of Silver",
+      "Artist": "LCD Soundsystem",
+      "Year": "2007",
+      "Genre": "Electronic, Rock",
+      "Subgenre": "Leftfield, Alternative Rock, Electro, Disco",
+      "Image": "https://img.discogs.com/Lknr9Zimx7nlbFNRlrgeObwnXLU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-935577-1496703574-8307.jpeg.jpg"
+    },
+    {
+      "Number": "396",
+      "Album": "For Your Pleasure",
+      "Artist": "Roxy Music",
+      "Year": "1973",
+      "Genre": "Rock",
+      "Subgenre": "Art Rock, Avantgarde, Glam",
+      "Image": "https://img.discogs.com/LcYlmPDRGkm3Zc1Gp_Qj9l9VhZI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1048994-1530800371-3235.jpeg.jpg"
+    },
+    {
+      "Number": "397",
+      "Album": "Blue Lines",
+      "Artist": "Massive Attack",
+      "Year": "1991",
+      "Genre": "Electronic, Reggae",
+      "Subgenre": "Dub, Downtempo",
+      "Image": "https://img.discogs.com/rIaoItQnu3UE7f8A5niF8bWzBlg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-65754-1320097333.jpeg.jpg"
+    },
+    {
+      "Number": "398",
+      "Album": "Eliminator",
+      "Artist": "ZZ Top",
+      "Year": "1983",
+      "Genre": "Rock",
+      "Subgenre": "Pop Rock",
+      "Image": "https://img.discogs.com/hD4ZM6RNBxloZFQo-7-tp98BdKE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1291640-1367093438-1325.jpeg.jpg"
+    },
+    {
+      "Number": "399",
+      "Album": "Rain Dogs",
+      "Artist": "Tom Waits",
+      "Year": "1985",
+      "Genre": "Rock, Blues",
+      "Subgenre": "Blues Rock",
+      "Image": "https://img.discogs.com/-nXoyaMvgPWalArbvx__--MYVa0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-905265-1535133498-3035.jpeg.jpg"
+    },
+    {
+      "Number": "400",
+      "Album": "Anthology: The Best of The Temptations",
+      "Artist": "The Temptations",
+      "Year": "1995",
+      "Genre": "Electronic, Funk , Soul",
+      "Subgenre": "Soul, Disco",
+      "Image": "https://img.discogs.com/NxTz9BvSTMmOeXn9vHRMG5-doTo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1841211-1526184638-4178.jpeg.jpg"
+    },
+    {
+      "Number": "401",
+      "Album": "Californication",
+      "Artist": "Red Hot Chili Peppers",
+      "Year": "1999",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock, Funk Metal",
+      "Image": "https://img.discogs.com/UCI1F98Qt-jv-uV2AQaZEKGk2B0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1266804-1461290216-7010.jpeg.jpg"
+    },
+    {
+      "Number": "402",
+      "Album": "Illmatic",
+      "Artist": "Nas",
+      "Year": "1994",
+      "Genre": "Hip Hop",
+      "Subgenre": "None",
+      "Image": "https://img.discogs.com/LC9iLW0NCXXYFzzTYT2TshDDl_8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-392604-1177019228.jpeg.jpg"
+    },
+    {
+      "Number": "403",
+      "Album": "(pronounced 'leh-'nerd 'skin-'nerd)",
+      "Artist": "Lynyrd Skynyrd",
+      "Year": "1973",
+      "Genre": "Rock",
+      "Subgenre": "Blues Rock, Hard Rock, Southern Rock",
+      "Image": "https://img.discogs.com/d5jFWgt4CrxJnyFv_HYi_DapUGU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4301456-1361138281-3978.jpeg.jpg"
+    },
+    {
+      "Number": "404",
+      "Album": "Dr. John's Gumbo",
+      "Artist": "Dr. John",
+      "Year": "1972",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Bayou Funk, Funk, Rhythm & Blues",
+      "Image": "https://img.discogs.com/kdUkY28VHYmYOj0n5X79jgPuSeU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1231039-1289603202.jpeg.jpg"
+    },
+    {
+      "Number": "405",
+      "Album": "Radio City",
+      "Artist": "Big Star",
+      "Year": "1974",
+      "Genre": "Rock",
+      "Subgenre": "Power Pop",
+      "Image": "https://img.discogs.com/BEqPuDdCKFyiILx-DZJYeYcP_d4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1455258-1221023049.jpeg.jpg"
+    },
+    {
+      "Number": "406",
+      "Album": "Rid of Me",
+      "Artist": "PJ Harvey",
+      "Year": "1993",
+      "Genre": "Rock",
+      "Subgenre": "Indie Rock",
+      "Image": "https://img.discogs.com/OSJ2oR5EhPx49y0hd3i5vknJBZs=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-36052-1606316026-8044.jpeg.jpg"
+    },
+    {
+      "Number": "407",
+      "Album": "Sandinista!",
+      "Artist": "The Clash",
+      "Year": "1980",
+      "Genre": "Rock, Reggae",
+      "Subgenre": "Rock & Roll, Dub, Punk",
+      "Image": "https://img.discogs.com/sO4M5tngO4yUCJ_-702PBy3Arlk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-100245-1353686746-3088.jpeg.jpg"
+    },
+    {
+      "Number": "408",
+      "Album": "I Do Not Want What I Haven't Got",
+      "Artist": "Sinead O'Connor",
+      "Year": "1989",
+      "Genre": "Rock, Funk , Soul, Blues",
+      "Subgenre": "Blues Rock, Rhythm & Blues, Soul",
+      "Image": "https://img.discogs.com/RtNj_TDVO5gIirh4fqyIXw8VyKU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-420725-1337736644-8793.jpeg.jpg"
+    },
+    {
+      "Number": "409",
+      "Album": "Strange Days",
+      "Artist": "The Doors",
+      "Year": "1967",
+      "Genre": "Rock",
+      "Subgenre": "Psychedelic Rock",
+      "Image": "https://img.discogs.com/Cq3xPL0vIZqx82xup-lBr8nQmzo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13839806-1562308277-4267.jpeg.jpg"
+    },
+    {
+      "Number": "410",
+      "Album": "Time Out of Mind",
+      "Artist": "Bob Dylan",
+      "Year": "1997",
+      "Genre": "Rock, Blues",
+      "Subgenre": "Blues Rock",
+      "Image": "https://img.discogs.com/XHE3wg7hPBd5DAV7oOikiHGITjo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-954191-1554296280-5239.jpeg.jpg"
+    },
+    {
+      "Number": "411",
+      "Album": "461 Ocean Boulevard",
+      "Artist": "Eric Clapton",
+      "Year": "1974",
+      "Genre": "Rock",
+      "Subgenre": "Blues Rock",
+      "Image": "https://img.discogs.com/YjSz-7J10f2HZMm07yK45DcOFcY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-585141-1381802725-9707.jpeg.jpg"
+    },
+    {
+      "Number": "412",
+      "Album": "Pink Flag",
+      "Artist": "Wire",
+      "Year": "1977",
+      "Genre": "Rock",
+      "Subgenre": "Punk",
+      "Image": "https://img.discogs.com/dbD_KuEjq6E5cAigjtye2Q1AMIQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-223354-1381947085-7813.jpeg.jpg"
+    },
+    {
+      "Number": "413",
+      "Album": "Double Nickels on the Dime",
+      "Artist": "Minutemen",
+      "Year": "1984",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock, Hardcore, Punk",
+      "Image": "https://img.discogs.com/BZNWiMkxfiQNUL4s14aw7ef_dbg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-421057-1346605023-4851.jpeg.jpg"
+    },
+    {
+      "Number": "414",
+      "Album": "Beauty and the Beat",
+      "Artist": "The Go Go's",
+      "Year": "1981",
+      "Genre": "Rock",
+      "Subgenre": "Pop Rock",
+      "Image": "https://img.discogs.com/GRrHXiT-k6MIxF-TBkd7GH0gutM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3531333-1522192222-9191.jpeg.jpg"
+    },
+    {
+      "Number": "415",
+      "Album": "Van Halen",
+      "Artist": "Van Halen",
+      "Year": "1978",
+      "Genre": "Rock",
+      "Subgenre": "Hard Rock",
+      "Image": "https://img.discogs.com/LMJQnOb85PgYqeOT-F3Rr05qazg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3892549-1387927607-4257.jpeg.jpg"
+    },
+    {
+      "Number": "416",
+      "Album": "Mule Variations",
+      "Artist": "Tom Waits",
+      "Year": "1999",
+      "Genre": "Electronic, Rock",
+      "Subgenre": "Abstract, Art Rock",
+      "Image": "https://img.discogs.com/qcedAKBPiTz68_33KEqvPdKpjKk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1365907-1351150537-8703.jpeg.jpg"
+    },
+    {
+      "Number": "417",
+      "Album": "Boy",
+      "Artist": "U2",
+      "Year": "1980",
+      "Genre": "Rock",
+      "Subgenre": "New Wave, Pop Rock",
+      "Image": "https://img.discogs.com/LlIeNIpwZ2vGv_FODT1rEcjIRCo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11778636-1522576123-7986.jpeg.jpg"
+    },
+    {
+      "Number": "418",
+      "Album": "Band on the Run",
+      "Artist": "Paul McCartney & Wings",
+      "Year": "1973",
+      "Genre": "Rock",
+      "Subgenre": "Pop Rock",
+      "Image": "https://img.discogs.com/dSh9Yx4Qopl616fXRM__OFD0FLg=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-35301-1319382618.jpeg.jpg"
+    },
+    {
+      "Number": "419",
+      "Album": "Dummy",
+      "Artist": "Portishead",
+      "Year": "1994",
+      "Genre": "Electronic",
+      "Subgenre": "Trip Hop, Downtempo",
+      "Image": "https://img.discogs.com/xDUv-XUUQy-Ddgm35Sol3ps1h-w=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13239116-1612863353-5093.jpeg.jpg"
+    },
+    {
+      "Number": "420",
+      "Album": "The \"Chirping\" Crickets",
+      "Artist": "The Crickets",
+      "Year": "1957",
+      "Genre": "Rock, Pop",
+      "Subgenre": "Rockabilly, Rock & Roll",
+      "Image": "https://img.discogs.com/rfk0bOMsB-kxH98jW4PytGZ3AAo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2152809-1345653926-8418.jpeg.jpg"
+    },
+    {
+      "Number": "421",
+      "Album": "The Best of the Girl Groups, Volume 1",
+      "Artist": "Various Artists",
+      "Year": "1990",
+      "Genre": "Rock, Pop",
+      "Subgenre": "Pop Rock, Vocal",
+      "Image": "https://img.discogs.com/eOQe1ytgsZ-sbm9QO9ZMPzv40Hg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3629179-1338043493-4527.jpeg.jpg"
+    },
+    {
+      "Number": "422",
+      "Album": "Presenting the Fabulous Ronettes Featuring Veronica",
+      "Artist": "The Ronettes",
+      "Year": "1963",
+      "Genre": "Rock, Pop",
+      "Subgenre": "Rock & Roll, Vocal",
+      "Image": "https://img.discogs.com/MyNlBHmlzNYecChfAXQcQuWV6OU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1949463-1478607570-5335.jpeg.jpg"
+    },
+    {
+      "Number": "423",
+      "Album": "Anthology",
+      "Artist": "Diana Ross & The Supremes",
+      "Year": "2001",
+      "Genre": "Electronic, Funk , Soul",
+      "Subgenre": "Pop Rock, Soul, Disco",
+      "Image": "https://img.discogs.com/h1O5XZP4LdBtdNXkHK3PWZE81Jo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-427903-1294587219.jpeg.jpg"
+    },
+    {
+      "Number": "424",
+      "Album": "The Rising",
+      "Artist": "Bruce Springsteen",
+      "Year": "2002",
+      "Genre": "Rock",
+      "Subgenre": "Folk Rock, Classic Rock",
+      "Image": "https://img.discogs.com/N75ej08c3AOTEINwtBFAQ6u4KqI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1637493-1495375836-7079.jpeg.jpg"
+    },
+    {
+      "Number": "425",
+      "Album": "Grievous Angel",
+      "Artist": "Gram Parsons",
+      "Year": "1974",
+      "Genre": "Rock, Folk, World, & Country",
+      "Subgenre": "Country Rock, Honky Tonk",
+      "Image": "https://img.discogs.com/obTfVWTz_Q2LS4oJwAiGFZNZTc8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5894007-1514283616-2057.jpeg.jpg"
+    },
+    {
+      "Number": "426",
+      "Album": "Cheap Trick at Budokan",
+      "Artist": "Cheap Trick",
+      "Year": "1978",
+      "Genre": "Rock",
+      "Subgenre": "Power Pop, Pop Rock, Arena Rock, Hard Rock",
+      "Image": "https://img.discogs.com/k2qGqu6wOKIjRszmDGUwoYUTr1w=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1890992-1479120546-8386.jpeg.jpg"
+    },
+    {
+      "Number": "427",
+      "Album": "Sleepless",
+      "Artist": "Peter Wolf",
+      "Year": "2002",
+      "Genre": "Rock, Blues, Pop",
+      "Subgenre": "Blues Rock, Pop Rock, Ballad",
+      "Image": "https://img.discogs.com/KPDXbWRJ37tFZaoPdLxrYeghcC0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2423834-1444814222-1749.jpeg.jpg"
+    },
+    {
+      "Number": "428",
+      "Album": "Outlandos d'Amour",
+      "Artist": "The Police",
+      "Year": "1978",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock, New Wave, Punk",
+      "Image": "https://img.discogs.com/VEgNhTbW1rlDQbyqgMRioVqyB30=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-793593-1201128430.jpeg.jpg"
+    },
+    {
+      "Number": "429",
+      "Album": "Another Green World",
+      "Artist": "Brian Eno",
+      "Year": "1975",
+      "Genre": "Electronic",
+      "Subgenre": "Experimental, Ambient",
+      "Image": "https://img.discogs.com/cmTz6RafT_q1KOVmeFOaa__82Ak=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-116525-1538300396-8899.jpeg.jpg"
+    },
+    {
+      "Number": "430",
+      "Album": "Vampire Weekend",
+      "Artist": "Vampire Weekend",
+      "Year": "2007",
+      "Genre": "Rock",
+      "Subgenre": "Indie Rock",
+      "Image": "https://img.discogs.com/HQx1gGryEz6bF-dOi80gEyrWQw4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10872040-1597661067-8022.jpeg.jpg"
+    },
+    {
+      "Number": "431",
+      "Album": "Stories From the City, Stories From the Sea",
+      "Artist": "PJ Harvey",
+      "Year": "2000",
+      "Genre": "Rock",
+      "Subgenre": "Indie Rock",
+      "Image": "https://img.discogs.com/bdFnHduecvUEKsi6qzVgB41geqo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-415842-1248487814.jpeg.jpg"
+    },
+    {
+      "Number": "432",
+      "Album": "Here Come the Warm Jets",
+      "Artist": "Brian Eno",
+      "Year": "1973",
+      "Genre": "Rock",
+      "Subgenre": "Art Rock, Glam",
+      "Image": "https://img.discogs.com/kkv8zxwDsLHs2Xf_FIeslGLYOsA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-35610-1502464482-7800.jpeg.jpg"
+    },
+    {
+      "Number": "433",
+      "Album": "All Things Must Pass",
+      "Artist": "George Harrison",
+      "Year": "1970",
+      "Genre": "Rock",
+      "Subgenre": "Pop Rock",
+      "Image": "https://img.discogs.com/ZJa1Dqb4MMiyOsRZu1REYfV5pco=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-516882-1631575115-4801.jpeg.jpg"
+    },
+    {
+      "Number": "434",
+      "Album": "#1 Record",
+      "Artist": "Big Star",
+      "Year": "1972",
+      "Genre": "Rock",
+      "Subgenre": "Power Pop",
+      "Image": "https://img.discogs.com/j4bDHOtF4-VxKtCLHXKIKchVuf8=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-270582-1363569411-7918.jpeg.jpg"
+    },
+    {
+      "Number": "435",
+      "Album": "In Utero",
+      "Artist": "Nirvana",
+      "Year": "1993",
+      "Genre": "Rock",
+      "Subgenre": "Grunge, Alternative Rock",
+      "Image": "https://img.discogs.com/dqwbwQ23fqJkd4K_SVAbHfJA-d8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-375979-1491700347-7263.jpeg.jpg"
+    },
+    {
+      "Number": "436",
+      "Album": "Sea Change",
+      "Artist": "Beck",
+      "Year": "2002",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock, Post Rock",
+      "Image": "https://img.discogs.com/N4LYt4CmKar-sPkmTfOKAvlb6Fk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-380156-1381446537-3753.jpeg.jpg"
+    },
+    {
+      "Number": "437",
+      "Album": "Tha Carter III",
+      "Artist": "Lil Wayne",
+      "Year": "2008",
+      "Genre": "Hip Hop, Funk , Soul",
+      "Subgenre": "R&B,Swing, Screw, Pop Rap, Thug Rap",
+      "Image": "https://img.discogs.com/UQVC19BbKr7SckDD6DNLaTTEAuQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-20835880-1635943204-9169.jpeg.jpg"
+    },
+    {
+      "Number": "438",
+      "Album": "Boys Don't Cry",
+      "Artist": "The Cure",
+      "Year": "1979",
+      "Genre": "Rock",
+      "Subgenre": "New Wave, Post-Punk",
+      "Image": "https://img.discogs.com/BqlkGaihvtOFMVEFzxaOe4a9uQ8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2468885-1371398510-1774.jpeg.jpg"
+    },
+    {
+      "Number": "439",
+      "Album": "Live at the Harlem Square Club, 1963",
+      "Artist": "Sam Cooke",
+      "Year": "1985",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Soul",
+      "Image": "https://img.discogs.com/2Gfdv8J0It5iZbh1XrU3NNBbyYg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1354445-1347210028-1651.jpeg.jpg"
+    },
+    {
+      "Number": "440",
+      "Album": "Rum Sodomy & the Lash",
+      "Artist": "The Pogues",
+      "Year": "1985",
+      "Genre": "Rock, Folk, World, & Country",
+      "Subgenre": "Folk Rock, Celtic, Punk",
+      "Image": "https://img.discogs.com/WAkgiCN6NoqQ2pmaWks2NEIflh4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3667439-1339593883-6617.jpeg.jpg"
+    },
+    {
+      "Number": "441",
+      "Album": "Suicide",
+      "Artist": "Suicide",
+      "Year": "1977",
+      "Genre": "Electronic, Rock",
+      "Subgenre": "New Wave, Experimental",
+      "Image": "https://img.discogs.com/XdQSzyUO7HiITJYFRp88vmRY3Wo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-429836-1312811390.jpeg.jpg"
+    },
+    {
+      "Number": "442",
+      "Album": "Q: Are We Not Men? A: We Are Devo!",
+      "Artist": "DEVO",
+      "Year": "1978",
+      "Genre": "Rock",
+      "Subgenre": "New Wave",
+      "Image": "https://img.discogs.com/tv4_zPn2GXME3tYJBNw_HriCKlI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-499732-1290061363.jpeg.jpg"
+    },
+    {
+      "Number": "443",
+      "Album": "In Color",
+      "Artist": "Cheap Trick",
+      "Year": "1977",
+      "Genre": "Rock",
+      "Subgenre": "Power Pop, Pop Rock, Hard Rock",
+      "Image": "https://img.discogs.com/iZBJy3RsP5ect9RiGhXOOZTBa4o=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9657656-1484349961-8214.jpeg.jpg"
+    },
+    {
+      "Number": "444",
+      "Album": "The World Is a Ghetto",
+      "Artist": "War",
+      "Year": "1972",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Funk",
+      "Image": "https://img.discogs.com/6BB3h2K1HUjTl58bo5nTGymuYSs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-428062-1536609897-7425.jpeg.jpg"
+    },
+    {
+      "Number": "445",
+      "Album": "Fly Like an Eagle",
+      "Artist": "Steve Miller Band",
+      "Year": "1976",
+      "Genre": "Rock",
+      "Subgenre": "Pop Rock",
+      "Image": "https://img.discogs.com/8r11xmMKsyI0lHdYUwm1yEdfO6c=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-537047-1427053017-6353.png.jpg"
+    },
+    {
+      "Number": "446",
+      "Album": "Back in the USA",
+      "Artist": "MC5",
+      "Year": "1970",
+      "Genre": "Rock",
+      "Subgenre": "Garage Rock, Rock & Roll",
+      "Image": "https://img.discogs.com/VSrwb5lNY8uepYDhIOAbrwX79Fg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-877148-1531118886-4898.jpeg.jpg"
+    },
+    {
+      "Number": "447",
+      "Album": "Getz , Gilberto",
+      "Artist": "Stan Getz, Joao Gilberto featuring Antonio Carlos Jobim",
+      "Year": "1964",
+      "Genre": "Jazz",
+      "Subgenre": "Bossa Nova,Latin Jazz",
+      "Image": "https://img.discogs.com/ggF3S3B0nxKC7RNL31dD7OG9SlA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1198875-1502121556-4334.jpeg.jpg"
+    },
+    {
+      "Number": "448",
+      "Album": "Synchronicity",
+      "Artist": "The Police",
+      "Year": "1983",
+      "Genre": "Rock, Pop",
+      "Subgenre": "New Wave, Pop Rock",
+      "Image": "https://img.discogs.com/maQUE_0amEOdT9xbUTvAvMFTLOQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3754997-1343059810-7110.jpeg.jpg"
+    },
+    {
+      "Number": "449",
+      "Album": "Third,Sister Lovers",
+      "Artist": "Big Star",
+      "Year": "1978",
+      "Genre": "Rock",
+      "Subgenre": "Lo-Fi,EIndie Rock",
+      "Image": "https://img.discogs.com/DGDapiKOUwA3n3tkEt-qkKLmxqc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-420541-1409256292-2632.jpeg.jpg"
+    },
+    {
+      "Number": "450",
+      "Album": "For Everyman",
+      "Artist": "Jackson Browne",
+      "Year": "1973",
+      "Genre": "Rock",
+      "Subgenre": "Pop Rock, Classic Rock",
+      "Image": "https://img.discogs.com/MpfKXXpkYGHxZUGq8_5B8RdAqlc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1315531-1245656018.jpeg.jpg"
+    },
+    {
+      "Number": "451",
+      "Album": "Back to Black",
+      "Artist": "Amy Winehouse",
+      "Year": "2006",
+      "Genre": "Funk , Soul, Pop",
+      "Subgenre": "Soul",
+      "Image": "https://img.discogs.com/_oSB6Gd7gtka3Dr04yZQQXeEZm0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-825438-1617814426-5525.jpeg.jpg"
+    },
+    {
+      "Number": "452",
+      "Album": "John Prine",
+      "Artist": "John Prine",
+      "Year": "1971",
+      "Genre": "Folk, World, & Country",
+      "Subgenre": "Country, Folk",
+      "Image": "https://img.discogs.com/4-bCqWSKSuUlxsVivttH4zPxnF8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6469802-1420096956-4258.jpeg.jpg"
+    },
+    {
+      "Number": "453",
+      "Album": "Strictly Business",
+      "Artist": "EPMD",
+      "Year": "1987",
+      "Genre": "Hip Hop",
+      "Subgenre": "None",
+      "Image": "https://img.discogs.com/AnDLfmeeQImMIN_BN35No-KIbMw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-98044-1236166476.jpeg.jpg"
+    },
+    {
+      "Number": "454",
+      "Album": "Love It to Death",
+      "Artist": "Alice Cooper",
+      "Year": "1971",
+      "Genre": "Rock",
+      "Subgenre": "Classic Rock",
+      "Image": "https://img.discogs.com/vVr7tx_Ek_rjoePgeF9d5XCwDR0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6975577-1440934764-9507.jpeg.jpg"
+    },
+    {
+      "Number": "455",
+      "Album": "How Will the Wolf Survive?",
+      "Artist": "Los Lobos",
+      "Year": "1984",
+      "Genre": "Rock, Latin",
+      "Subgenre": "Blues Rock",
+      "Image": "https://img.discogs.com/3rIpOnK6RZjArCsZzntG1wUC5Vg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1077770-1320261589.jpeg.jpg"
+    },
+    {
+      "Number": "456",
+      "Album": "Here, My Dear",
+      "Artist": "Marvin Gaye",
+      "Year": "1978",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Soul",
+      "Image": "https://img.discogs.com/rSZ0SVQW-9NI8ec2JjaStsm9Uro=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-306710-1453390988-2160.jpeg.jpg"
+    },
+    {
+      "Number": "457",
+      "Album": "Z",
+      "Artist": "My Morning Jacket",
+      "Year": "2005",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock",
+      "Image": "https://img.discogs.com/kLMkFEe6pBv0nT8hhDLfZoq7jag=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-537834-1128979399.jpeg.jpg"
+    },
+    {
+      "Number": "458",
+      "Album": "Tumbleweed Connection",
+      "Artist": "Elton John",
+      "Year": "1970",
+      "Genre": "Rock, Folk, World, & Country",
+      "Subgenre": "Soft Rock, Country Rock",
+      "Image": "https://img.discogs.com/M3_DMzEOxQgOoKtmiZ80T7n7W50=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4393730-1363706211-4256.jpeg.jpg"
+    },
+    {
+      "Number": "459",
+      "Album": "The Drifters' Golden Hits",
+      "Artist": "The Drifters",
+      "Year": "1968",
+      "Genre": "Rock, Funk , Soul",
+      "Subgenre": "Rhythm & Blues, Soul",
+      "Image": "https://img.discogs.com/ZTh3FHtgQ8XANKxkwJ2zyYS0fxk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6455010-1419680954-2433.jpeg.jpg"
+    },
+    {
+      "Number": "460",
+      "Album": "Live Through This",
+      "Artist": "Hole",
+      "Year": "1994",
+      "Genre": "Rock",
+      "Subgenre": "Grunge",
+      "Image": "https://img.discogs.com/CPCK79Xy-0w5yAqUCse2ALVOGwQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-367733-1291158726.jpeg.jpg"
+    },
+    {
+      "Number": "461",
+      "Album": "Metal Box",
+      "Artist": "Public Image Ltd.",
+      "Year": "1979",
+      "Genre": "Electronic, Rock",
+      "Subgenre": "Post-Punk, Dub, Avantgarde, Experimental",
+      "Image": "https://img.discogs.com/b3nVgbThQMGPKsDhlQ7J_wj9ZRE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-358127-1532197896-8323.jpeg.jpg"
+    },
+    {
+      "Number": "462",
+      "Album": "Document",
+      "Artist": "R.E.M.",
+      "Year": "1987",
+      "Genre": "Rock",
+      "Subgenre": "None",
+      "Image": "https://img.discogs.com/Y2JMWgZOo-sOYokMw5plu5DnGsg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-395081-1223476656.jpeg.jpg"
+    },
+    {
+      "Number": "463",
+      "Album": "Heaven Up Here",
+      "Artist": "Echo and The Bunnymen",
+      "Year": "1981",
+      "Genre": "Rock",
+      "Subgenre": "New Wave, Indie Rock",
+      "Image": "https://img.discogs.com/7-pzd4d-ZCskujgbCnzL7URLaGA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-468507-1385239804-3782.jpeg.jpg"
+    },
+    {
+      "Number": "464",
+      "Album": "Hysteria",
+      "Artist": "Def Leppard",
+      "Year": "1987",
+      "Genre": "Rock",
+      "Subgenre": "Hard Rock, Arena Rock",
+      "Image": "https://img.discogs.com/8QHWMTfG7t2oCdE7Kus3UB-XEZU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-421436-1457155527-8640.jpeg.jpg"
+    },
+    {
+      "Number": "465",
+      "Album": "69 Love Songs",
+      "Artist": "The Magnetic Fields",
+      "Year": "1999",
+      "Genre": "Electronic, Rock",
+      "Subgenre": "Synth-pop, Indie Rock",
+      "Image": "https://img.discogs.com/k588sscy1uApAPQa3xwA6lLk7-E=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-266226-1203683933.jpeg.jpg"
+    },
+    {
+      "Number": "466",
+      "Album": "A Rush of Blood to the Head",
+      "Artist": "Coldplay",
+      "Year": "2002",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock, Pop Rock",
+      "Image": "https://img.discogs.com/f46A4ZDs1WpwgQC3Jv5yc8snLLY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-367315-1284410494.jpeg.jpg"
+    },
+    {
+      "Number": "467",
+      "Album": "Tunnel of Love",
+      "Artist": "Bruce Springsteen",
+      "Year": "1987",
+      "Genre": "Rock",
+      "Subgenre": "None",
+      "Image": "https://img.discogs.com/OP8gLugULP143BEF-bZFo9cbi5c=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1709195-1620559920-3465.jpeg.jpg"
+    },
+    {
+      "Number": "468",
+      "Album": "The Paul Butterfield Blues Band",
+      "Artist": "The Paul Butterfield Blues Band",
+      "Year": "1965",
+      "Genre": "Rock, Blues",
+      "Subgenre": "Blues Rock, Electric Blues, Chicago Blues, Modern Electric Blues, Harmonica Blues",
+      "Image": "https://img.discogs.com/jd0f1pWy5ZaLNfXH-WWC7H2qLVs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6333794-1416708691-9365.jpeg.jpg"
+    },
+    {
+      "Number": "469",
+      "Album": "The Score",
+      "Artist": "Fugees",
+      "Year": "1996",
+      "Genre": "Hip Hop",
+      "Subgenre": "Pop Rap, Conscious",
+      "Image": "https://img.discogs.com/MbYpRj1GnFNk0m_WNJ11LhEWCiM=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-18231-1632240337-2652.jpeg.jpg"
+    },
+    {
+      "Number": "470",
+      "Album": "Radio",
+      "Artist": "L.L. Cool J",
+      "Year": "1985",
+      "Genre": "Hip Hop",
+      "Subgenre": "None",
+      "Image": "https://img.discogs.com/PyZHAO_Aof77cNBAmBpVC3kXrQ4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-123019-1292361782.jpeg.jpg"
+    },
+    {
+      "Number": "471",
+      "Album": "I Want to See the Bright Lights Tonight",
+      "Artist": "Richard & Linda Thompson",
+      "Year": "1974",
+      "Genre": "Rock",
+      "Subgenre": "Classic Rock, Folk Rock",
+      "Image": "https://img.discogs.com/VEk5uIX4Hq-ClTOVRK7_s_I7sQg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1005589-1413626931-1896.jpeg.jpg"
+    },
+    {
+      "Number": "472",
+      "Album": "Faith",
+      "Artist": "George Michael",
+      "Year": "1987",
+      "Genre": "Electronic, Rock, Funk , Soul, Blues, Pop",
+      "Subgenre": "Downtempo, Soft Rock, Pop Rock, Synth-pop",
+      "Image": "https://img.discogs.com/XFZ4hzjZY6QzkW-XNuZrW-5EAaQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-413315-1514466651-4484.jpeg.jpg"
+    },
+    {
+      "Number": "473",
+      "Album": "The Smiths",
+      "Artist": "The Smiths",
+      "Year": "1984",
+      "Genre": "Rock",
+      "Subgenre": "Indie Rock",
+      "Image": "https://img.discogs.com/UQMDMsfQp4qYHW4up5fWIpdQX_M=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-83080-1586981946-1512.webp.jpg"
+    },
+    {
+      "Number": "474",
+      "Album": "Proxima estacion: Esperanza",
+      "Artist": "Manu Chao",
+      "Year": "2001",
+      "Genre": "Rock, Reggae, Latin",
+      "Subgenre": "Folk Rock, Reggae, Reggae-Pop",
+      "Image": "https://img.discogs.com/OdAtpilKuAzo2DR0OyMeerTEcGc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-376018-1201382979.jpeg.jpg"
+    },
+    {
+      "Number": "475",
+      "Album": "Armed Forces",
+      "Artist": "Elvis Costello & The Attractions",
+      "Year": "1979",
+      "Genre": "Rock",
+      "Subgenre": "New Wave, Pop Rock",
+      "Image": "https://img.discogs.com/heGFU7nqTOK_bbSlJTC8oXHZUkk=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-55029-1236334161.jpeg.jpg"
+    },
+    {
+      "Number": "476",
+      "Album": "Life After Death",
+      "Artist": "The Notorious B.I.G.",
+      "Year": "1997",
+      "Genre": "Hip Hop",
+      "Subgenre": "None",
+      "Image": "https://img.discogs.com/U-Au3aTbXnfVxhB2cKtqzeJVtFs=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-65049-1476549718-2125.jpeg.jpg"
+    },
+    {
+      "Number": "477",
+      "Album": "Down Every Road",
+      "Artist": "Merle Haggard",
+      "Year": "1996",
+      "Genre": "Folk, World, & Country",
+      "Subgenre": "Country",
+      "Image": "https://img.discogs.com/9iwgdImx2HvkMNCgci6K8TM8_XY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2656295-1295224843.jpeg.jpg"
+    },
+    {
+      "Number": "478",
+      "Album": "All Time Greatest Hits",
+      "Artist": "Loretta Lynn",
+      "Year": "2002",
+      "Genre": "Folk, World, & Country",
+      "Subgenre": "Country",
+      "Image": "https://img.discogs.com/r0yFE0tmUBvOdOZGx6E0JxurO_4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-15195542-1587936925-6000.jpeg.jpg"
+    },
+    {
+      "Number": "479",
+      "Album": "Maggot Brain",
+      "Artist": "Funkadelic",
+      "Year": "1971",
+      "Genre": "Rock, Funk , Soul",
+      "Subgenre": "P.Funk, Psychedelic Rock",
+      "Image": "https://img.discogs.com/qNvYz8XBH2ssFE6VaThz4gDCbjk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-773587-1252593571.jpeg.jpg"
+    },
+    {
+      "Number": "480",
+      "Album": "Only Built 4 Cuban Linx",
+      "Artist": "Raekwon",
+      "Year": "1995",
+      "Genre": "Hip Hop",
+      "Subgenre": "None",
+      "Image": "https://img.discogs.com/1QE4yurBFiWwe6UBl4fKnPgCswY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-184946-1294103525.jpeg.jpg"
+    },
+    {
+      "Number": "481",
+      "Album": "Voodoo",
+      "Artist": "D'Angelo",
+      "Year": "2000",
+      "Genre": "Hip Hop, Funk , Soul",
+      "Subgenre": "Soul, Funk, Neo Soul",
+      "Image": "https://img.discogs.com/BpEkV7LDX1CqvhBI7HWJQ_NnHoo=/150x150/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-44944-1279459681.jpeg.jpg"
+    },
+    {
+      "Number": "482",
+      "Album": "Guitar Town",
+      "Artist": "Steve Earle",
+      "Year": "1986",
+      "Genre": "Rock, Folk, World, & Country",
+      "Subgenre": "Country, Honky Tonk",
+      "Image": "https://img.discogs.com/bb35ehVCBpEclMRH-VQtt1GLBe4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1379491-1296002955.jpeg.jpg"
+    },
+    {
+      "Number": "483",
+      "Album": "Entertainment!",
+      "Artist": "Gang of Four",
+      "Year": "1979",
+      "Genre": "Rock",
+      "Subgenre": "Post-Punk, New Wave",
+      "Image": "https://img.discogs.com/lNEG_Mae0jBEZELGQdjdUcHDmVI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2379398-1592071593-7178.jpeg.jpg"
+    },
+    {
+      "Number": "484",
+      "Album": "All the Young Dudes",
+      "Artist": "Mott the Hoople",
+      "Year": "1972",
+      "Genre": "Rock",
+      "Subgenre": "Classic Rock, Glam",
+      "Image": "https://img.discogs.com/2Cyr2aVsyW7_jwI83wXPyKYzyuA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2587381-1430226102-8255.jpeg.jpg"
+    },
+    {
+      "Number": "485",
+      "Album": "Vitalogy",
+      "Artist": "Pearl Jam",
+      "Year": "1994",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock, Hard Rock",
+      "Image": "https://img.discogs.com/PJF-hy36B-ps32tIQMFqEzFolXE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-464904-1498739748-6715.jpeg.jpg"
+    },
+    {
+      "Number": "486",
+      "Album": "That's the Way of the World",
+      "Artist": "Earth, Wind & Fire",
+      "Year": "1975",
+      "Genre": "Funk , Soul",
+      "Subgenre": "Soul, Funk, Disco",
+      "Image": "https://img.discogs.com/YjGPY8szdUpVt1is-Ya3-3ax-hw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-502117-1528709653-7377.jpeg.jpg"
+    },
+    {
+      "Number": "487",
+      "Album": "She's So Unusual",
+      "Artist": "Cyndi Lauper",
+      "Year": "1983",
+      "Genre": "Electronic, Rock",
+      "Subgenre": "Pop Rock, Synth-pop",
+      "Image": "https://img.discogs.com/fA6UBfHZn-FogCxNHH6xOp1MaHc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-208008-1473061364-7141.jpeg.jpg"
+    },
+    {
+      "Number": "488",
+      "Album": "New Day Rising",
+      "Artist": "Husker Du",
+      "Year": "1985",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock, Hardcore, Punk",
+      "Image": "https://img.discogs.com/fNeVMzXHoW7jQpF9LIjq2Y-6kvI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2352904-1278972279.jpeg.jpg"
+    },
+    {
+      "Number": "489",
+      "Album": "Destroyer",
+      "Artist": "KISS",
+      "Year": "1976",
+      "Genre": "Rock",
+      "Subgenre": "Hard Rock",
+      "Image": "https://img.discogs.com/n611kE1BuGdnJSG4PJ4qLQ18vrQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-702504-1149574014.jpeg.jpg"
+    },
+    {
+      "Number": "490",
+      "Album": "Tres hombres",
+      "Artist": "ZZ Top",
+      "Year": "1973",
+      "Genre": "Rock",
+      "Subgenre": "Blues Rock, Classic Rock",
+      "Image": "https://img.discogs.com/t4A_HJtbDahEPF3cmMo3Rvp-DpY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-840158-1465273920-7140.jpeg.jpg"
+    },
+    {
+      "Number": "491",
+      "Album": "Born Under a Bad Sign",
+      "Artist": "Albert King",
+      "Year": "1967",
+      "Genre": "Funk , Soul, Blues",
+      "Subgenre": "Electric Blues, Rhythm & Blues, Soul",
+      "Image": "https://img.discogs.com/tcoEFTJLKWuJ0ZDHmyDuMUKcfCk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2996095-1330023837.jpeg.jpg"
+    },
+    {
+      "Number": "492",
+      "Album": "Touch",
+      "Artist": "Eurythmics",
+      "Year": "1983",
+      "Genre": "Electronic, Pop",
+      "Subgenre": "New Wave, Synth-pop",
+      "Image": "https://img.discogs.com/_tvvwpGfbbQX9WtUOQJiG8T81bA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8139481-1458054503-9022.jpeg.jpg"
+    },
+    {
+      "Number": "493",
+      "Album": "Yankee Hotel Foxtrot",
+      "Artist": "Wilco",
+      "Year": "2002",
+      "Genre": "Rock",
+      "Subgenre": "Alternative Rock",
+      "Image": "https://img.discogs.com/ONbGdSHJdLIMrYJ-vSCRR41KUVk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4426525-1409338534-9032.jpeg.jpg"
+    },
+    {
+      "Number": "494",
+      "Album": "Oracular Spectacular",
+      "Artist": "MGMT",
+      "Year": "2007",
+      "Genre": "Electronic, Rock, Pop",
+      "Subgenre": "Synth-pop, Indie Rock",
+      "Image": "https://img.discogs.com/5ODG6qp2SkIGAOPncbTNE0FbAPY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9512640-1481876892-6605.jpeg.jpg"
+    },
+    {
+      "Number": "495",
+      "Album": "Give It Up",
+      "Artist": "Bonnie Raitt",
+      "Year": "1972",
+      "Genre": "Rock",
+      "Subgenre": "Blues Rock",
+      "Image": "https://img.discogs.com/ycPv6WUjicr5aDkqxVUb8njF4_g=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4456899-1373122609-2911.jpeg.jpg"
+    },
+    {
+      "Number": "496",
+      "Album": "Boz Scaggs",
+      "Artist": "Boz Scaggs",
+      "Year": "1969",
+      "Genre": "Rock",
+      "Subgenre": "Pop Rock",
+      "Image": "https://img.discogs.com/1y-iNLu7Ndn-ttew4TaXAJXfhEA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12336305-1533332955-7706.jpeg.jpg"
+    },
+    {
+      "Number": "497",
+      "Album": "White Blood Cells",
+      "Artist": "The White Stripes",
+      "Year": "2001",
+      "Genre": "Rock",
+      "Subgenre": "Indie Rock, Alternative Rock, Blues Rock, Garage Rock",
+      "Image": "https://img.discogs.com/GpDCdI9OTeG-TkJ9lDxDOrCUcIA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-501660-1463253575-1113.jpeg.jpg"
+    },
+    {
+      "Number": "498",
+      "Album": "The Stone Roses",
+      "Artist": "The Stone Roses",
+      "Year": "1989",
+      "Genre": "Rock",
+      "Subgenre": "Indie Rock",
+      "Image": "https://img.discogs.com/vGCYC4iioYfG8lSPjnjVg8zZ75c=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-156092-1613371362-4033.jpeg.jpg"
+    },
+    {
+      "Number": "499",
+      "Album": "Live in Cook County Jail",
+      "Artist": "B.B. King",
+      "Year": "1971",
+      "Genre": "Blues",
+      "Subgenre": "Electric Blues",
+      "Image": "https://img.discogs.com/qLwiG3QrAKZeOLwMcdQoxXKz7qI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3542204-1334556529.jpeg.jpg"
+    },
+    {
+      "Number": "500",
+      "Album": "Aquemini",
+      "Artist": "OutKast",
+      "Year": "1998",
+      "Genre": "Hip Hop",
+      "Subgenre": "Reggae, Gangsta, Soul, Conscious",
+      "Image": "https://img.discogs.com/QAuNHTEBWlKex1lP48uPRHvvbQg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-169325-1316298017.jpeg.jpg"
+    }
+  ]
+  
+  }
+  
